@@ -1,0 +1,1001 @@
+Category,Brand,Store_Location,Customer_Segment,Payment_Method,Shipping_Status,Sales_Rep,Unit_Price,Quantity,Discount_Pct,Order_Date,Ship_Date
+GPU,MSI,Manila,Professional,Cash,Processing,Annemarie Towne,2069,878,13,9/21/2025,9/22/2025
+Storage,Samsung,Baguio,Gamer,Gcash,Cancelled,Herb Bernholt,7744,337,52,4/2/2025,4/9/2025
+Cooling,Samsung,Manila,Professional,Cash,Delivered,Hedy Luxon,1694,75,0,1/24/2026,1/27/2026
+PSU,Asus,Tagaytay,Student,Manager's check.,Delivered,Nick Fache,5905,264,69,2/16/2026,2/23/2026
+Cooling,Corsair,Cebu,Professional,Manager's check.,Processing,Ramsay Sampson,6965,253,3,6/28/2025,6/29/2025
+GPU,EVGA,Tagaytay,Enterprise,Gcash,Processing,Petey Rallin,2328,956,82,4/24/2026,4/26/2026
+CPU,Asus,Davao,Gamer,Gcash,Delivered,Mattie Ivanusyev,2741,682,57,1/1/2025,1/8/2025
+RAM,Asus,Tagaytay,Enterprise,Cash,Processing,Vaughan Jacqueminet,7537,29,40,4/7/2025,4/11/2025
+GPU,AMD,Tagaytay,Professional,Manager's check.,Processing,Elvera Cockrem,5265,884,4,4/16/2025,4/20/2025
+PSU,EVGA,Cebu,Student,Credit Card,Shipped,Giana Dagworthy,1576,485,53,3/29/2026,4/1/2026
+CPU,MSI,Cebu,Gamer,Cash,Processing,Johannes Kording,857,411,76,7/25/2025,7/30/2025
+Motherboard,Gigabyte,Baguio,Professional,Manager's check.,Processing,Emery Winterborne,7427,42,19,3/26/2026,3/30/2026
+Cooling,Gigabyte,Davao,Student,Gcash,Processing,Page Betteriss,4053,989,13,1/14/2025,1/20/2025
+GPU,Intel,Baguio,Professional,Credit Card,Processing,Duke Twinning,351,637,15,3/20/2026,3/26/2026
+Motherboard,Asus,Tagaytay,Student,Gcash,Shipped,Polly Denacamp,9737,392,13,3/21/2025,3/27/2025
+Motherboard,Gigabyte,Davao,Enterprise,Credit Card,Shipped,Nils Izacenko,2191,664,47,9/14/2025,9/19/2025
+Motherboard,Asus,Davao,Professional,Manager's check.,Delivered,Ruy Gilliat,7693,42,7,7/21/2025,7/27/2025
+PSU,Samsung,Davao,Enterprise,Gcash,Shipped,Latashia Nutter,3807,47,12,3/20/2026,3/25/2026
+GPU,EVGA,Davao,Professional,Credit Card,Delivered,Maggee Hamlett,1515,136,18,4/10/2026,4/13/2026
+Storage,Gigabyte,Tagaytay,Professional,Credit Card,Shipped,Shane Lakes,4051,610,91,5/13/2025,5/18/2025
+Cooling,Corsair,Davao,Enterprise,Cash,Delivered,Kati Landall,5089,27,29,4/28/2025,5/5/2025
+CPU,MSI,Tagaytay,Student,Manager's check.,Cancelled,Hermann Burnard,339,113,88,3/9/2026,3/11/2026
+Cooling,Samsung,Baguio,Student,Manager's check.,Processing,Franky Justice,4457,250,43,4/18/2025,4/20/2025
+Cooling,Gigabyte,Baguio,Gamer,Credit Card,Shipped,Gavra Broy,7215,927,22,1/11/2025,1/16/2025
+PSU,Intel,Manila,Enterprise,Gcash,Processing,Edita Prahm,4874,6,30,1/19/2025,1/22/2025
+GPU,Asus,Baguio,Enterprise,Gcash,Processing,Wakefield Duffie,6974,588,61,11/22/2025,11/26/2025
+Cooling,MSI,Tagaytay,Enterprise,Credit Card,Processing,Cecil Matusson,1138,734,52,1/3/2025,1/8/2025
+CPU,EVGA,Cebu,Enterprise,Manager's check.,Cancelled,Tessi Merington,3882,285,91,11/28/2025,12/2/2025
+Cooling,Asus,Manila,Enterprise,Gcash,Processing,Jaquenette Sackett,6777,160,49,11/4/2025,11/7/2025
+Cooling,Corsair,Tagaytay,Professional,Credit Card,Cancelled,Brodie Faulkes,9073,102,58,8/6/2025,8/7/2025
+PSU,Intel,Cebu,Professional,Manager's check.,Cancelled,Bailie Evangelinos,9420,512,58,9/15/2025,9/19/2025
+GPU,Gigabyte,Davao,Gamer,Cash,Processing,Delores Casement,9923,725,71,6/27/2025,6/30/2025
+RAM,Asus,Baguio,Enterprise,Manager's check.,Delivered,Truman Kinnock,9825,992,75,8/3/2025,8/6/2025
+Storage,EVGA,Cebu,Student,Gcash,Processing,Cobb Kamenar,9837,432,68,8/8/2025,8/15/2025
+CPU,AMD,Davao,Student,Manager's check.,Cancelled,Dunstan Staddom,4030,293,72,4/4/2026,4/10/2026
+CPU,AMD,Manila,Student,Cash,Shipped,Lowell McSkeagan,8801,744,67,3/26/2026,4/2/2026
+Motherboard,AMD,Davao,Gamer,Cash,Processing,Fitz Camocke,2080,377,94,4/16/2025,4/18/2025
+PSU,AMD,Davao,Student,Gcash,Cancelled,Gladys Flood,704,906,87,2/15/2026,2/21/2026
+Storage,Gigabyte,Davao,Enterprise,Gcash,Shipped,Caterina Segge,5310,569,39,3/19/2026,3/20/2026
+GPU,Samsung,Tagaytay,Student,Cash,Processing,Ollie Woltering,515,136,48,12/12/2025,12/19/2025
+Storage,MSI,Tagaytay,Gamer,Credit Card,Shipped,Ladonna Gabbitus,477,851,94,7/1/2025,7/2/2025
+PSU,EVGA,Davao,Enterprise,Credit Card,Processing,Cory Lievesley,2959,87,91,2/14/2025,2/19/2025
+Motherboard,MSI,Cebu,Enterprise,Cash,Processing,Carena Mealiffe,4495,191,58,3/12/2026,3/19/2026
+Motherboard,Corsair,Davao,Gamer,Cash,Shipped,Lindsey Fuchs,2157,984,70,3/30/2025,4/2/2025
+Motherboard,Corsair,Baguio,Gamer,Gcash,Shipped,Consalve Harden,7391,924,36,1/31/2026,2/5/2026
+Motherboard,AMD,Tagaytay,Enterprise,Gcash,Delivered,Danila Abramovitz,3398,645,9,3/7/2026,3/10/2026
+RAM,Gigabyte,Manila,Enterprise,Cash,Processing,Nolan Bradtke,4043,614,26,1/20/2026,1/26/2026
+CPU,Intel,Cebu,Student,Gcash,Delivered,Sybille Gresch,1939,154,90,1/12/2026,1/17/2026
+PSU,Intel,Manila,Professional,Cash,Delivered,Boniface Gillimgham,2652,848,5,3/4/2025,3/11/2025
+RAM,Samsung,Cebu,Student,Manager's check.,Cancelled,Fanny Sparshatt,6598,128,11,2/5/2025,2/12/2025
+Motherboard,Intel,Cebu,Enterprise,Credit Card,Cancelled,Murvyn Merrill,5056,55,40,11/4/2025,11/6/2025
+Motherboard,Gigabyte,Tagaytay,Enterprise,Credit Card,Processing,Karlotta Bjerkan,3962,409,53,8/27/2025,8/30/2025
+GPU,EVGA,Cebu,Student,Manager's check.,Cancelled,Dulcine Gotobed,4887,854,48,3/1/2025,3/8/2025
+GPU,Intel,Tagaytay,Gamer,Credit Card,Cancelled,Roch Muselli,3695,764,17,5/27/2025,5/31/2025
+CPU,Samsung,Davao,Enterprise,Cash,Processing,Linette McGilvra,8512,557,57,1/6/2026,1/9/2026
+Motherboard,AMD,Manila,Enterprise,Gcash,Processing,Violetta Durnall,7432,780,2,8/8/2025,8/13/2025
+Motherboard,Samsung,Davao,Student,Credit Card,Processing,Hedy MacDirmid,6953,901,41,8/14/2025,8/15/2025
+CPU,EVGA,Davao,Gamer,Credit Card,Shipped,Shelagh Posse,7869,929,72,7/3/2025,7/9/2025
+CPU,Samsung,Davao,Student,Gcash,Delivered,Gladi Aliberti,7005,521,81,1/27/2025,1/30/2025
+Storage,Gigabyte,Baguio,Enterprise,Gcash,Shipped,Barri Szepe,3783,71,92,7/17/2025,7/20/2025
+CPU,Gigabyte,Davao,Enterprise,Credit Card,Shipped,Wilmer Anshell,3799,671,0,8/1/2025,8/8/2025
+Motherboard,EVGA,Baguio,Student,Cash,Cancelled,Ulric Whapples,8257,215,78,8/17/2025,8/24/2025
+RAM,Corsair,Tagaytay,Professional,Cash,Delivered,Janos Petschelt,245,989,93,7/29/2025,7/30/2025
+RAM,MSI,Cebu,Gamer,Manager's check.,Cancelled,Timmie Hungerford,668,568,49,7/28/2025,8/4/2025
+GPU,Samsung,Cebu,Gamer,Credit Card,Processing,Dru Bourdas,3888,38,10,6/5/2025,6/6/2025
+CPU,Corsair,Davao,Student,Manager's check.,Shipped,Aldus Teare,9098,786,41,3/3/2026,3/6/2026
+Storage,AMD,Manila,Enterprise,Cash,Shipped,Dyanne MacWhan,3593,393,35,1/12/2026,1/16/2026
+GPU,EVGA,Manila,Professional,Manager's check.,Delivered,Desiree Riccetti,3995,373,93,3/24/2025,3/30/2025
+RAM,EVGA,Davao,Gamer,Cash,Cancelled,Adore Bruckent,450,7,53,9/26/2025,9/30/2025
+PSU,AMD,Cebu,Professional,Credit Card,Shipped,Grantley Kynder,4750,53,9,7/23/2025,7/27/2025
+Cooling,Intel,Davao,Gamer,Credit Card,Shipped,Katina Hawkswood,4422,848,79,7/29/2025,8/4/2025
+Cooling,Asus,Cebu,Gamer,Credit Card,Cancelled,Lemuel Gorini,4751,183,11,5/4/2025,5/8/2025
+GPU,Intel,Davao,Student,Credit Card,Shipped,Pollyanna Roebottom,2188,419,78,1/25/2026,1/29/2026
+Cooling,AMD,Tagaytay,Student,Manager's check.,Delivered,Evyn Calbrathe,2077,63,42,1/15/2025,1/16/2025
+RAM,Asus,Davao,Gamer,Credit Card,Processing,Bent Maher,4951,980,38,4/9/2025,4/15/2025
+CPU,EVGA,Tagaytay,Gamer,Gcash,Cancelled,Ninnette Reuss,3500,114,66,3/8/2026,3/12/2026
+PSU,EVGA,Tagaytay,Enterprise,Cash,Delivered,Byrle Caudrey,5833,358,12,4/13/2025,4/14/2025
+Motherboard,Asus,Tagaytay,Professional,Cash,Cancelled,Konstantine Fairey,9658,52,14,8/23/2025,8/30/2025
+Storage,Asus,Baguio,Student,Cash,Shipped,Gun Lamps,2340,277,65,5/18/2025,5/22/2025
+CPU,Corsair,Tagaytay,Gamer,Manager's check.,Cancelled,Allie Batthew,813,553,72,2/6/2025,2/10/2025
+PSU,Asus,Tagaytay,Professional,Gcash,Shipped,Hirsch Dabnor,1275,681,56,1/9/2026,1/13/2026
+Cooling,AMD,Manila,Student,Manager's check.,Delivered,Beltran Mouncey,196,470,49,4/1/2026,4/4/2026
+Storage,Intel,Cebu,Professional,Gcash,Shipped,Vincents Cupitt,649,924,71,12/30/2025,1/4/2026
+Cooling,AMD,Davao,Professional,Manager's check.,Delivered,Ive Little,1658,796,64,8/7/2025,8/13/2025
+Cooling,MSI,Cebu,Enterprise,Credit Card,Cancelled,Edan Layfield,6764,251,70,4/14/2025,4/18/2025
+RAM,AMD,Manila,Professional,Manager's check.,Processing,Andie Cornish,3513,967,83,8/18/2025,8/21/2025
+GPU,Intel,Cebu,Gamer,Cash,Delivered,Jacklin Imesson,4026,953,80,4/1/2025,4/5/2025
+GPU,Gigabyte,Tagaytay,Gamer,Cash,Delivered,Idelle Collinwood,4545,169,66,12/28/2025,1/3/2026
+PSU,Asus,Manila,Enterprise,Credit Card,Cancelled,Shea Jezzard,4970,143,24,4/27/2026,5/2/2026
+RAM,Corsair,Baguio,Student,Manager's check.,Shipped,Russell Oxer,2218,204,40,3/10/2026,3/11/2026
+Motherboard,Samsung,Cebu,Enterprise,Manager's check.,Delivered,Roxana Burhouse,5996,688,7,11/1/2025,11/6/2025
+Cooling,Asus,Cebu,Gamer,Manager's check.,Delivered,Goldarina Hullot,7242,939,55,4/18/2026,4/22/2026
+CPU,EVGA,Tagaytay,Gamer,Manager's check.,Processing,Nertie Filkov,1628,578,56,1/26/2026,1/29/2026
+GPU,Gigabyte,Davao,Enterprise,Gcash,Processing,Gayelord Binning,3834,661,3,2/12/2025,2/19/2025
+Storage,Samsung,Baguio,Professional,Gcash,Processing,Edik Isaksson,267,827,94,3/7/2025,3/11/2025
+PSU,Asus,Tagaytay,Student,Cash,Shipped,Franky Toffoletto,2467,351,58,2/15/2025,2/16/2025
+Storage,MSI,Baguio,Professional,Credit Card,Shipped,Noell Kmicicki,1160,4,10,4/17/2026,4/18/2026
+Motherboard,Gigabyte,Tagaytay,Professional,Credit Card,Shipped,Jamil Olden,8671,344,62,10/2/2025,10/7/2025
+GPU,Intel,Baguio,Enterprise,Gcash,Processing,Roseanne Gannicleff,9903,925,45,3/13/2026,3/16/2026
+CPU,Asus,Cebu,Student,Gcash,Shipped,Vivia McKall,4097,529,51,9/9/2025,9/16/2025
+GPU,Corsair,Cebu,Enterprise,Cash,Delivered,Audy Kellaway,3640,945,32,8/19/2025,8/20/2025
+PSU,Asus,Tagaytay,Enterprise,Gcash,Cancelled,Ophelia Binks,4159,130,76,2/17/2026,2/24/2026
+Storage,EVGA,Baguio,Student,Manager's check.,Cancelled,Jeromy Nobriga,6559,375,60,9/23/2025,9/25/2025
+RAM,AMD,Davao,Enterprise,Cash,Processing,Fraser Feldon,6775,884,3,1/20/2025,1/26/2025
+PSU,AMD,Davao,Student,Gcash,Processing,Thaddus Cummings,2435,830,77,7/4/2025,7/11/2025
+Storage,AMD,Davao,Enterprise,Credit Card,Cancelled,Connie Mullane,1884,286,18,3/28/2025,4/3/2025
+Motherboard,Gigabyte,Tagaytay,Enterprise,Manager's check.,Cancelled,Basilius Bruhnke,3274,699,57,1/7/2025,1/14/2025
+RAM,Gigabyte,Cebu,Professional,Cash,Cancelled,Cissy Lovie,1646,172,78,3/14/2025,3/16/2025
+RAM,Asus,Davao,Student,Cash,Cancelled,Rosco Frank,993,832,33,1/15/2025,1/20/2025
+Storage,AMD,Manila,Gamer,Gcash,Processing,Tarrah Verlinden,1333,864,76,1/10/2026,1/12/2026
+Motherboard,MSI,Cebu,Gamer,Credit Card,Delivered,Marlo Witcherley,230,168,65,1/13/2026,1/15/2026
+PSU,EVGA,Tagaytay,Student,Gcash,Processing,Heddi Yurkov,815,412,15,11/7/2025,11/13/2025
+Storage,EVGA,Baguio,Enterprise,Manager's check.,Processing,Drucie Bonney,5258,731,64,2/9/2026,2/12/2026
+Motherboard,Corsair,Tagaytay,Professional,Manager's check.,Shipped,Marius Catonnet,9563,978,56,7/1/2025,7/3/2025
+CPU,EVGA,Cebu,Professional,Gcash,Cancelled,Viola Sander,5077,527,37,2/17/2026,2/19/2026
+Motherboard,EVGA,Baguio,Enterprise,Manager's check.,Delivered,Vince Yearn,1091,118,24,8/1/2025,8/6/2025
+Storage,Samsung,Baguio,Enterprise,Credit Card,Shipped,Bellina Gourlie,7438,911,37,5/12/2025,5/17/2025
+PSU,MSI,Manila,Gamer,Manager's check.,Cancelled,Christie MacGilmartin,2636,699,54,2/13/2026,2/19/2026
+Storage,AMD,Baguio,Professional,Cash,Cancelled,Lilah Shorten,8657,15,95,11/4/2025,11/6/2025
+Cooling,AMD,Manila,Gamer,Manager's check.,Cancelled,Heda Hailes,1457,472,49,10/1/2025,10/5/2025
+GPU,Gigabyte,Cebu,Professional,Manager's check.,Shipped,Saxe Pawlata,7335,145,35,1/20/2026,1/21/2026
+Storage,Samsung,Baguio,Gamer,Gcash,Processing,Barbaraanne Mac Geaney,7222,400,57,8/28/2025,8/31/2025
+CPU,Samsung,Tagaytay,Professional,Manager's check.,Processing,Francine Aspinwall,76,373,88,1/21/2025,1/24/2025
+Motherboard,MSI,Tagaytay,Enterprise,Cash,Shipped,Alley Gingel,5506,64,48,8/28/2025,8/30/2025
+GPU,Gigabyte,Manila,Gamer,Gcash,Processing,Dara Brimming,1825,17,32,10/14/2025,10/19/2025
+Cooling,Gigabyte,Manila,Gamer,Manager's check.,Cancelled,Celle Danilewicz,4052,175,73,1/21/2025,1/25/2025
+Storage,AMD,Baguio,Student,Credit Card,Shipped,Emylee Roulston,7625,466,49,2/8/2026,2/10/2026
+Motherboard,MSI,Baguio,Enterprise,Credit Card,Processing,Daffy Krystek,3871,674,15,1/22/2026,1/25/2026
+RAM,Gigabyte,Baguio,Professional,Gcash,Delivered,Shelba Clemoes,9127,872,47,8/31/2025,9/5/2025
+GPU,EVGA,Davao,Gamer,Gcash,Processing,Kass Currm,9699,969,88,11/7/2025,11/8/2025
+Cooling,EVGA,Tagaytay,Enterprise,Gcash,Cancelled,Jesse Galliford,6702,64,26,2/17/2025,2/18/2025
+PSU,Corsair,Cebu,Professional,Manager's check.,Processing,Mignon Elphey,8826,135,49,2/28/2025,3/2/2025
+CPU,Samsung,Manila,Enterprise,Cash,Shipped,Agustin Peacey,5881,534,10,5/31/2025,6/4/2025
+Cooling,Intel,Cebu,Enterprise,Credit Card,Shipped,Elvis Piggot,5888,441,31,3/25/2025,3/29/2025
+CPU,Intel,Tagaytay,Enterprise,Cash,Cancelled,Terencio Warder,6822,988,25,9/26/2025,9/29/2025
+RAM,AMD,Cebu,Enterprise,Credit Card,Processing,Estel Harkin,5795,98,50,2/15/2025,2/19/2025
+CPU,Samsung,Baguio,Student,Gcash,Cancelled,Bibbie Fossett,338,555,2,3/30/2025,4/2/2025
+CPU,EVGA,Davao,Gamer,Credit Card,Cancelled,Eugene Moff,8425,456,29,2/21/2025,2/27/2025
+PSU,Asus,Manila,Enterprise,Gcash,Shipped,Emmalee Mardell,8418,164,93,10/21/2025,10/28/2025
+GPU,Samsung,Baguio,Student,Credit Card,Shipped,Ilysa Pendrill,9140,923,3,10/28/2025,11/3/2025
+Storage,MSI,Baguio,Professional,Manager's check.,Delivered,Ddene Kirtley,8618,144,23,4/27/2025,5/3/2025
+PSU,Asus,Davao,Professional,Manager's check.,Processing,Bastien Kalinke,6280,600,40,9/8/2025,9/10/2025
+PSU,MSI,Tagaytay,Student,Credit Card,Delivered,Jozef Pinnington,4201,548,75,3/14/2025,3/16/2025
+GPU,Samsung,Cebu,Gamer,Cash,Shipped,Jodee Bargery,4793,996,45,11/3/2025,11/10/2025
+PSU,Corsair,Davao,Professional,Gcash,Cancelled,Skipp O'Brogan,2432,504,1,4/25/2025,4/26/2025
+PSU,Asus,Tagaytay,Professional,Gcash,Cancelled,Glenine Medling,6362,725,50,1/19/2025,1/25/2025
+Motherboard,AMD,Baguio,Professional,Manager's check.,Shipped,Georgena Ricoald,2222,18,13,1/10/2026,1/12/2026
+Storage,Corsair,Manila,Enterprise,Credit Card,Shipped,Derk Heavy,5671,430,35,12/4/2025,12/6/2025
+CPU,EVGA,Cebu,Enterprise,Credit Card,Cancelled,Melloney Lowless,1065,650,74,2/9/2026,2/10/2026
+PSU,Corsair,Tagaytay,Professional,Manager's check.,Shipped,Brantley Yarnold,2142,989,48,1/25/2025,1/29/2025
+PSU,Intel,Tagaytay,Gamer,Cash,Shipped,Dewey Sketcher,1657,703,53,5/18/2025,5/19/2025
+PSU,Intel,Davao,Enterprise,Credit Card,Delivered,Daveta Moralee,7693,272,95,1/23/2025,1/30/2025
+CPU,Intel,Davao,Enterprise,Manager's check.,Cancelled,Xenos Ragles,5974,109,44,2/12/2025,2/16/2025
+GPU,Samsung,Cebu,Student,Credit Card,Cancelled,Danella Coventon,1125,440,15,2/14/2025,2/15/2025
+Cooling,EVGA,Tagaytay,Professional,Manager's check.,Processing,Elysia Grimbaldeston,708,739,8,5/1/2026,5/2/2026
+GPU,EVGA,Tagaytay,Professional,Gcash,Delivered,Elisabet Riddett,1222,704,61,10/27/2025,11/2/2025
+PSU,Intel,Cebu,Enterprise,Gcash,Cancelled,Astrid Kydde,5134,756,89,1/22/2025,1/28/2025
+Motherboard,EVGA,Cebu,Gamer,Credit Card,Shipped,Alayne Radborn,1381,381,82,7/24/2025,7/26/2025
+Cooling,Asus,Tagaytay,Student,Credit Card,Delivered,Miguel Bernardeau,7032,487,67,8/6/2025,8/12/2025
+RAM,Corsair,Tagaytay,Gamer,Gcash,Delivered,Aeriell Lawee,4061,363,36,7/27/2025,8/1/2025
+Storage,Samsung,Davao,Professional,Cash,Processing,Garfield Bemment,5971,277,57,5/1/2025,5/4/2025
+Motherboard,AMD,Davao,Gamer,Cash,Shipped,Orren Sammes,5106,486,56,4/25/2026,4/27/2026
+Storage,MSI,Cebu,Student,Cash,Cancelled,Barry McGeachie,109,360,13,9/4/2025,9/5/2025
+CPU,Intel,Cebu,Student,Credit Card,Processing,Nada Brannan,4886,400,0,3/22/2026,3/26/2026
+RAM,MSI,Tagaytay,Enterprise,Manager's check.,Delivered,Morley Bluschke,8201,258,78,9/19/2025,9/26/2025
+RAM,Asus,Baguio,Professional,Credit Card,Processing,Teri Plenderleith,1404,270,45,7/26/2025,7/31/2025
+GPU,Intel,Cebu,Enterprise,Gcash,Processing,Base Kiddie,5796,973,38,12/9/2025,12/10/2025
+RAM,Samsung,Cebu,Student,Credit Card,Processing,Adam Aymeric,4729,816,75,4/7/2026,4/11/2026
+PSU,Corsair,Tagaytay,Enterprise,Cash,Shipped,Tamqrah Astill,5742,565,40,1/7/2026,1/11/2026
+CPU,Asus,Cebu,Student,Cash,Delivered,Danita Gayter,6400,676,27,3/1/2025,3/4/2025
+GPU,Samsung,Tagaytay,Professional,Cash,Shipped,Nikolas Jeffs,6610,274,15,5/12/2025,5/19/2025
+Storage,Intel,Tagaytay,Professional,Credit Card,Delivered,Selma O'Heagertie,8700,134,53,4/5/2025,4/12/2025
+GPU,MSI,Baguio,Enterprise,Credit Card,Processing,Electra Elbourn,646,779,57,9/10/2025,9/11/2025
+Motherboard,EVGA,Cebu,Enterprise,Cash,Shipped,Dory Quinney,6512,118,37,3/12/2025,3/15/2025
+RAM,Corsair,Davao,Enterprise,Cash,Delivered,Lem Peiser,3197,460,86,1/23/2026,1/30/2026
+Storage,MSI,Baguio,Gamer,Cash,Shipped,Karlie Houchen,1378,784,88,9/18/2025,9/25/2025
+CPU,Gigabyte,Davao,Student,Manager's check.,Delivered,Silvio Johananoff,689,164,50,3/23/2026,3/29/2026
+Cooling,MSI,Baguio,Professional,Credit Card,Processing,Mart Madle,3689,324,81,3/22/2026,3/23/2026
+PSU,Corsair,Baguio,Professional,Manager's check.,Cancelled,Stanislaw McLanaghan,5569,496,36,7/15/2025,7/19/2025
+Storage,Samsung,Davao,Gamer,Manager's check.,Shipped,Judi Kunes,6257,122,89,4/23/2025,4/29/2025
+Cooling,EVGA,Cebu,Gamer,Cash,Shipped,Ali Seedman,6161,182,64,9/7/2025,9/12/2025
+PSU,Asus,Tagaytay,Gamer,Cash,Processing,Ricky Deveraux,1396,442,81,8/20/2025,8/25/2025
+GPU,Samsung,Baguio,Student,Manager's check.,Shipped,Meara Carrell,6927,527,19,3/31/2025,4/4/2025
+Motherboard,Gigabyte,Tagaytay,Gamer,Credit Card,Delivered,Wallis Wipper,9266,669,38,2/11/2026,2/14/2026
+Cooling,Corsair,Baguio,Professional,Cash,Shipped,Cullin Rigardeau,4013,173,92,4/23/2026,4/24/2026
+Cooling,MSI,Davao,Enterprise,Gcash,Delivered,Heath Collingwood,1290,225,68,4/26/2026,5/2/2026
+GPU,Corsair,Davao,Professional,Gcash,Cancelled,Teena Yewman,3936,808,16,10/1/2025,10/3/2025
+GPU,MSI,Davao,Enterprise,Credit Card,Shipped,Glyn Robard,2837,959,65,3/24/2026,3/30/2026
+PSU,Samsung,Baguio,Enterprise,Gcash,Cancelled,Ferris Penelli,4942,278,10,9/27/2025,10/3/2025
+Storage,Samsung,Manila,Professional,Credit Card,Delivered,Micky Winson,5478,766,77,1/3/2025,1/10/2025
+GPU,Intel,Baguio,Enterprise,Manager's check.,Processing,Victor Pakes,9718,545,44,1/26/2025,2/1/2025
+Cooling,Corsair,Manila,Gamer,Gcash,Delivered,Janot Tulloch,9535,556,81,1/12/2025,1/18/2025
+Motherboard,EVGA,Manila,Enterprise,Cash,Cancelled,Woodrow Shaudfurth,3067,469,9,12/9/2025,12/14/2025
+PSU,MSI,Davao,Gamer,Gcash,Delivered,Antonie Dionisetto,1423,475,47,2/23/2026,2/25/2026
+GPU,Gigabyte,Baguio,Gamer,Credit Card,Processing,Austina Weber,7333,433,61,10/12/2025,10/16/2025
+GPU,MSI,Baguio,Enterprise,Manager's check.,Processing,Denney Seagrove,1778,244,38,6/28/2025,7/3/2025
+RAM,Corsair,Manila,Professional,Manager's check.,Shipped,Ddene Scarfe,5946,409,66,10/26/2025,10/31/2025
+Storage,Intel,Tagaytay,Gamer,Manager's check.,Cancelled,Hurlee Mitchall,4468,151,56,8/22/2025,8/28/2025
+CPU,Intel,Manila,Gamer,Credit Card,Delivered,Ragnar McKennan,4558,321,42,9/18/2025,9/20/2025
+GPU,MSI,Davao,Student,Credit Card,Delivered,Hanna Lundbech,1451,735,5,4/4/2026,4/7/2026
+Storage,Intel,Manila,Gamer,Credit Card,Delivered,Sawyer Tuer,8157,292,63,5/7/2025,5/10/2025
+PSU,EVGA,Tagaytay,Gamer,Credit Card,Shipped,Estevan Stopher,8355,426,76,9/22/2025,9/29/2025
+Storage,MSI,Baguio,Gamer,Gcash,Cancelled,Yasmin Escala,6517,828,80,6/13/2025,6/19/2025
+PSU,Asus,Baguio,Professional,Credit Card,Cancelled,Marnie Sconce,9474,837,88,4/26/2026,5/2/2026
+Motherboard,Gigabyte,Tagaytay,Student,Gcash,Processing,Jonathan Ruggles,1419,932,79,7/26/2025,7/30/2025
+Motherboard,AMD,Cebu,Enterprise,Gcash,Cancelled,Starlin Magauran,5210,673,19,3/2/2026,3/9/2026
+Cooling,Asus,Baguio,Gamer,Manager's check.,Delivered,Yasmeen Duckering,403,878,89,7/27/2025,7/31/2025
+Cooling,EVGA,Davao,Gamer,Manager's check.,Processing,Shoshana Meakin,7089,771,9,4/12/2026,4/17/2026
+PSU,Intel,Manila,Gamer,Cash,Cancelled,Jessalyn Whiteson,5196,14,58,9/26/2025,9/29/2025
+Motherboard,Corsair,Baguio,Professional,Gcash,Cancelled,Melisande Tofful,5109,261,45,4/6/2025,4/12/2025
+CPU,Samsung,Cebu,Student,Gcash,Delivered,Elvyn Craigmyle,3411,757,90,3/1/2026,3/5/2026
+RAM,AMD,Baguio,Gamer,Credit Card,Cancelled,Nikos Cleatherow,8963,105,88,11/16/2025,11/18/2025
+PSU,Intel,Tagaytay,Enterprise,Credit Card,Shipped,Corty Adolphine,4366,840,39,1/30/2026,2/1/2026
+GPU,Gigabyte,Cebu,Enterprise,Cash,Cancelled,Vida Tregale,9566,923,63,4/21/2025,4/26/2025
+RAM,Corsair,Davao,Professional,Manager's check.,Delivered,Monty Gossington,3641,732,52,6/21/2025,6/27/2025
+GPU,Corsair,Davao,Professional,Manager's check.,Shipped,Madalyn Ruberry,1794,776,61,12/13/2025,12/15/2025
+Cooling,Corsair,Manila,Student,Manager's check.,Processing,Tybie Pocklington,8338,972,84,2/13/2025,2/18/2025
+PSU,EVGA,Davao,Gamer,Gcash,Cancelled,Blinny Kuhne,2397,821,62,3/21/2025,3/23/2025
+GPU,Intel,Davao,Gamer,Credit Card,Processing,Augie Tresler,9116,742,4,2/7/2025,2/8/2025
+Storage,Intel,Tagaytay,Student,Gcash,Shipped,Ogdan Tallent,1335,96,15,4/4/2026,4/10/2026
+RAM,Asus,Davao,Student,Manager's check.,Cancelled,Elmore Reavell,7415,752,24,5/5/2025,5/10/2025
+Storage,Corsair,Baguio,Gamer,Credit Card,Shipped,Mano Maiklem,5000,281,4,7/14/2025,7/21/2025
+GPU,Asus,Tagaytay,Enterprise,Gcash,Shipped,Conan Hasnip,2537,921,86,1/1/2025,1/4/2025
+GPU,Asus,Manila,Gamer,Manager's check.,Processing,Bondon Antonoyev,6007,671,93,10/25/2025,10/27/2025
+CPU,EVGA,Baguio,Student,Gcash,Cancelled,Sunny Hynd,7429,696,32,11/20/2025,11/23/2025
+GPU,Samsung,Tagaytay,Professional,Gcash,Cancelled,Sarita Winslett,8293,679,62,6/20/2025,6/22/2025
+GPU,Gigabyte,Baguio,Enterprise,Gcash,Cancelled,Rich Riddel,8749,555,17,12/11/2025,12/17/2025
+Cooling,MSI,Cebu,Professional,Cash,Cancelled,Peterus Bohan,5436,472,68,2/6/2026,2/11/2026
+GPU,Intel,Manila,Professional,Cash,Delivered,Glenine Rosindill,3802,294,15,7/10/2025,7/11/2025
+CPU,Asus,Baguio,Gamer,Manager's check.,Processing,Collette Coggin,4661,403,35,7/18/2025,7/24/2025
+Cooling,EVGA,Davao,Student,Manager's check.,Shipped,Golda Winckle,2294,979,67,2/15/2025,2/22/2025
+PSU,MSI,Tagaytay,Student,Manager's check.,Delivered,Wenonah Tulley,2908,745,52,2/14/2026,2/18/2026
+RAM,Intel,Manila,Professional,Credit Card,Cancelled,Elberta Peaurt,1282,321,12,8/15/2025,8/22/2025
+PSU,Intel,Tagaytay,Professional,Credit Card,Shipped,Norma Rollinson,3557,816,81,3/23/2025,3/25/2025
+CPU,AMD,Tagaytay,Student,Cash,Shipped,Joelynn Stango,3956,993,90,2/11/2025,2/12/2025
+Motherboard,MSI,Cebu,Gamer,Gcash,Cancelled,Albie Ivasyushkin,5391,394,51,1/8/2026,1/11/2026
+GPU,AMD,Baguio,Student,Gcash,Processing,Clive Lanfere,3332,5,58,3/7/2026,3/11/2026
+RAM,MSI,Davao,Gamer,Credit Card,Delivered,Lucina Flury,3766,554,66,3/17/2025,3/22/2025
+PSU,Asus,Davao,Student,Cash,Shipped,Jessika Godbehere,7376,4,49,3/3/2025,3/6/2025
+PSU,Asus,Baguio,Enterprise,Gcash,Delivered,Stephanie Cubbino,9819,969,10,11/16/2025,11/18/2025
+Motherboard,Intel,Davao,Enterprise,Manager's check.,Shipped,Agnes Jacobovitch,6100,750,91,10/19/2025,10/23/2025
+Motherboard,Intel,Tagaytay,Professional,Manager's check.,Shipped,Natividad Sincock,4909,965,16,5/13/2025,5/20/2025
+Storage,Gigabyte,Davao,Professional,Manager's check.,Processing,Coletta Dienes,4231,626,35,8/6/2025,8/11/2025
+GPU,Samsung,Davao,Enterprise,Credit Card,Delivered,Olly St. Clair,4072,420,4,1/14/2026,1/19/2026
+PSU,MSI,Cebu,Enterprise,Credit Card,Delivered,Bel Tilby,9350,339,26,8/3/2025,8/10/2025
+Motherboard,Intel,Baguio,Student,Cash,Delivered,Thia Sambrok,5012,327,18,4/11/2025,4/12/2025
+Storage,MSI,Manila,Student,Credit Card,Processing,Bartholomeo Pattison,6381,654,72,1/30/2025,2/2/2025
+Cooling,Asus,Baguio,Gamer,Credit Card,Processing,Astra Snufflebottom,8725,73,31,4/22/2026,4/29/2026
+GPU,EVGA,Cebu,Gamer,Credit Card,Cancelled,Tessi Berrow,1086,954,65,9/16/2025,9/20/2025
+Motherboard,Intel,Baguio,Professional,Credit Card,Cancelled,Layton Zammett,700,288,61,7/22/2025,7/28/2025
+RAM,Samsung,Manila,Professional,Credit Card,Delivered,Marge Dibsdale,7867,179,36,3/31/2025,4/5/2025
+PSU,MSI,Cebu,Gamer,Gcash,Delivered,Kristan Jedrys,8149,939,33,4/16/2025,4/20/2025
+CPU,Asus,Manila,Enterprise,Cash,Cancelled,Pammie O'Monahan,4555,829,90,1/14/2025,1/16/2025
+Cooling,Asus,Tagaytay,Student,Gcash,Shipped,Hercule Lalley,419,561,95,4/25/2025,4/26/2025
+RAM,AMD,Tagaytay,Gamer,Gcash,Cancelled,Prudence Davie,7623,480,4,7/17/2025,7/18/2025
+PSU,Samsung,Davao,Gamer,Cash,Cancelled,Berton Van Son,3698,690,29,6/14/2025,6/19/2025
+PSU,Intel,Manila,Gamer,Gcash,Processing,Annmarie Mincini,3333,188,22,3/4/2025,3/6/2025
+CPU,AMD,Baguio,Gamer,Manager's check.,Shipped,Scotty Drayn,9374,742,13,2/7/2025,2/13/2025
+Cooling,MSI,Tagaytay,Enterprise,Manager's check.,Delivered,Marcelline Seide,1250,130,52,4/17/2025,4/24/2025
+CPU,Gigabyte,Cebu,Professional,Credit Card,Processing,Corilla Greenalf,86,389,83,10/13/2025,10/18/2025
+RAM,AMD,Cebu,Student,Manager's check.,Shipped,Felicity Fellos,6831,827,94,3/5/2026,3/10/2026
+CPU,EVGA,Baguio,Student,Manager's check.,Shipped,Slade Rylatt,7060,662,85,10/25/2025,11/1/2025
+Storage,Samsung,Baguio,Gamer,Cash,Shipped,Dimitry Songest,7026,202,20,4/22/2026,4/28/2026
+GPU,AMD,Baguio,Gamer,Manager's check.,Processing,Thomasina Traske,8401,120,33,10/16/2025,10/22/2025
+PSU,AMD,Tagaytay,Professional,Manager's check.,Processing,Shandie Gain,1115,116,82,1/10/2025,1/11/2025
+Storage,Gigabyte,Manila,Student,Cash,Shipped,Charmian Mettericke,6852,145,60,2/1/2026,2/7/2026
+CPU,Samsung,Davao,Student,Gcash,Shipped,Pepita Derrett,5381,856,84,4/16/2026,4/17/2026
+Storage,AMD,Tagaytay,Professional,Manager's check.,Cancelled,Joseito Cozins,8847,667,86,10/8/2025,10/9/2025
+Motherboard,Intel,Cebu,Enterprise,Gcash,Cancelled,Darsey Witherow,623,358,81,1/8/2026,1/10/2026
+RAM,Intel,Davao,Student,Gcash,Delivered,Marchelle Shave,9170,101,71,5/28/2025,6/2/2025
+Storage,Gigabyte,Manila,Student,Cash,Shipped,Chickie Mowatt,2876,415,69,12/10/2025,12/11/2025
+Cooling,Samsung,Baguio,Professional,Gcash,Delivered,Luciana Stitt,6629,961,22,4/13/2025,4/20/2025
+PSU,Samsung,Cebu,Gamer,Gcash,Processing,Bordy Collabine,4805,296,8,1/12/2026,1/15/2026
+CPU,Samsung,Cebu,Enterprise,Credit Card,Delivered,Fran Zanotti,2098,189,16,7/3/2025,7/8/2025
+PSU,Samsung,Tagaytay,Professional,Credit Card,Shipped,Jere Marcus,7091,925,74,3/21/2026,3/28/2026
+GPU,Samsung,Manila,Student,Cash,Delivered,Mary Jessard,4128,60,12,12/18/2025,12/25/2025
+PSU,AMD,Tagaytay,Gamer,Credit Card,Shipped,Tara Bruford,5958,493,91,4/15/2026,4/16/2026
+GPU,Intel,Tagaytay,Student,Manager's check.,Delivered,Jim Mackinder,3000,971,33,6/16/2025,6/17/2025
+PSU,EVGA,Cebu,Gamer,Credit Card,Shipped,Mina Couper,423,254,92,2/22/2025,3/1/2025
+Cooling,Asus,Manila,Gamer,Cash,Cancelled,Mikey Witchard,4315,974,12,1/5/2026,1/10/2026
+CPU,MSI,Tagaytay,Student,Gcash,Processing,Moselle Bletsor,9877,135,5,9/12/2025,9/18/2025
+Cooling,EVGA,Davao,Gamer,Gcash,Shipped,Vonny Leonard,5222,646,28,10/31/2025,11/6/2025
+Cooling,Gigabyte,Cebu,Professional,Gcash,Delivered,Cale Stadden,4268,297,52,4/20/2026,4/26/2026
+RAM,Asus,Cebu,Enterprise,Gcash,Shipped,Harmonia Pepperrall,1675,277,91,9/7/2025,9/12/2025
+Motherboard,Gigabyte,Cebu,Gamer,Manager's check.,Shipped,Eryn Downage,761,953,34,9/26/2025,9/28/2025
+GPU,Intel,Cebu,Enterprise,Gcash,Processing,Nadean Belsham,1584,378,51,12/16/2025,12/19/2025
+Cooling,Intel,Manila,Enterprise,Gcash,Delivered,Filippa Bigrigg,1462,91,42,8/17/2025,8/19/2025
+CPU,Intel,Tagaytay,Enterprise,Credit Card,Processing,Darla Kerans,4213,940,93,8/13/2025,8/18/2025
+Storage,Asus,Tagaytay,Student,Manager's check.,Cancelled,Olag Carlos,961,315,68,2/16/2026,2/17/2026
+PSU,EVGA,Cebu,Enterprise,Cash,Processing,Lotta Putson,3987,28,59,12/19/2025,12/22/2025
+Motherboard,Gigabyte,Cebu,Student,Cash,Delivered,Erie MacDearmid,343,799,37,11/19/2025,11/21/2025
+PSU,EVGA,Tagaytay,Student,Gcash,Delivered,Jeffrey Marchant,5251,989,16,11/7/2025,11/10/2025
+Cooling,Intel,Baguio,Student,Credit Card,Shipped,Flossi Skeldon,4284,722,94,9/8/2025,9/10/2025
+GPU,Gigabyte,Baguio,Gamer,Cash,Cancelled,Bailey April,7891,53,64,12/14/2025,12/21/2025
+Cooling,Corsair,Manila,Gamer,Cash,Cancelled,Eamon Sullly,6148,800,31,4/8/2025,4/13/2025
+RAM,MSI,Baguio,Student,Credit Card,Shipped,Harland Grent,7453,728,20,3/11/2025,3/18/2025
+RAM,Gigabyte,Cebu,Professional,Cash,Delivered,Frederich Coppock.,9141,546,25,2/7/2026,2/12/2026
+CPU,Gigabyte,Manila,Gamer,Gcash,Processing,Phillipe Brisard,7965,244,40,1/12/2026,1/19/2026
+GPU,Gigabyte,Manila,Gamer,Cash,Cancelled,Roselia Benck,7489,909,62,1/6/2025,1/7/2025
+CPU,Corsair,Baguio,Gamer,Credit Card,Delivered,Dori Reinhard,1263,568,90,1/26/2025,1/27/2025
+RAM,Samsung,Davao,Gamer,Credit Card,Cancelled,Anette Hirthe,4353,417,42,12/19/2025,12/22/2025
+CPU,Gigabyte,Davao,Student,Manager's check.,Cancelled,Prescott Tidbold,8935,19,51,4/6/2026,4/13/2026
+Cooling,Asus,Baguio,Professional,Cash,Delivered,Reginauld Frogley,6907,738,5,3/6/2025,3/12/2025
+CPU,MSI,Baguio,Professional,Cash,Processing,Mariette Fairbanks,4981,306,55,5/26/2025,5/29/2025
+PSU,Corsair,Manila,Enterprise,Cash,Cancelled,Thornie Stripling,4963,385,30,1/6/2026,1/11/2026
+Motherboard,Samsung,Cebu,Enterprise,Manager's check.,Shipped,Donaugh Sibyllina,6698,171,29,9/27/2025,10/1/2025
+Motherboard,Samsung,Cebu,Gamer,Manager's check.,Shipped,Jesus Briat,685,329,87,8/14/2025,8/20/2025
+Storage,Gigabyte,Tagaytay,Gamer,Gcash,Shipped,Vernice Dearl,6810,612,55,2/11/2025,2/14/2025
+PSU,EVGA,Cebu,Professional,Cash,Cancelled,Winny Search,7033,465,83,3/3/2025,3/4/2025
+Motherboard,Gigabyte,Cebu,Professional,Manager's check.,Delivered,Haven Tourne,3813,122,62,4/14/2026,4/16/2026
+GPU,Samsung,Manila,Professional,Credit Card,Delivered,Marylou Velte,3142,497,12,9/3/2025,9/8/2025
+PSU,Samsung,Davao,Gamer,Credit Card,Processing,Hadleigh Dowbiggin,8647,775,77,2/27/2026,2/28/2026
+GPU,Corsair,Cebu,Student,Cash,Shipped,Mariellen Illiston,4214,70,68,4/13/2026,4/17/2026
+CPU,Gigabyte,Manila,Student,Gcash,Cancelled,Lamond Garlick,2258,333,71,12/13/2025,12/19/2025
+Cooling,AMD,Baguio,Enterprise,Cash,Delivered,Sari Spikins,4766,560,95,5/26/2025,5/31/2025
+Cooling,AMD,Davao,Enterprise,Cash,Shipped,Orton Semiraz,1492,234,21,8/23/2025,8/25/2025
+PSU,Gigabyte,Tagaytay,Student,Gcash,Shipped,Henry Javes,5759,986,8,4/2/2026,4/7/2026
+RAM,Gigabyte,Baguio,Student,Manager's check.,Processing,Louis Bunyan,6756,549,27,2/5/2025,2/8/2025
+Motherboard,EVGA,Baguio,Gamer,Cash,Delivered,Mame Kittredge,1949,565,95,9/7/2025,9/12/2025
+GPU,Samsung,Davao,Gamer,Gcash,Delivered,Cull Kirkebye,3030,536,50,4/20/2026,4/21/2026
+PSU,EVGA,Manila,Student,Credit Card,Shipped,Nikolaos Johnke,4483,813,17,5/6/2025,5/7/2025
+Storage,Intel,Manila,Student,Cash,Delivered,Tove Kidstoun,6642,307,58,1/26/2025,2/1/2025
+PSU,AMD,Davao,Professional,Gcash,Shipped,Darcee Kelloway,8997,138,22,4/16/2025,4/22/2025
+Motherboard,Intel,Davao,Gamer,Gcash,Delivered,Izak Clancey,2670,830,88,8/16/2025,8/21/2025
+GPU,Gigabyte,Baguio,Gamer,Manager's check.,Shipped,Dell Bullin,3318,146,12,4/16/2025,4/23/2025
+CPU,AMD,Davao,Enterprise,Gcash,Cancelled,Kerrin Malzard,7318,217,78,5/27/2025,6/3/2025
+PSU,Gigabyte,Baguio,Professional,Manager's check.,Processing,Anabelle Karim,8643,130,25,10/21/2025,10/22/2025
+PSU,Gigabyte,Davao,Student,Cash,Processing,Nikolaus Annion,9139,678,43,2/3/2026,2/5/2026
+RAM,Asus,Tagaytay,Gamer,Cash,Shipped,Romain Barbrick,2918,591,73,4/2/2026,4/5/2026
+Motherboard,EVGA,Manila,Enterprise,Gcash,Cancelled,Baird McDirmid,2455,349,73,3/29/2025,4/3/2025
+PSU,Asus,Tagaytay,Student,Credit Card,Shipped,Felice Lancetter,8708,421,85,11/11/2025,11/15/2025
+Cooling,Corsair,Tagaytay,Student,Gcash,Processing,Anni Piaggia,7957,783,9,2/6/2026,2/9/2026
+GPU,Asus,Tagaytay,Enterprise,Cash,Shipped,Aldrich Lashley,620,342,45,9/22/2025,9/23/2025
+Motherboard,Asus,Tagaytay,Enterprise,Cash,Cancelled,Marketa McWhannel,7784,457,12,1/3/2026,1/9/2026
+CPU,Asus,Manila,Student,Cash,Processing,Valene Nevitt,6062,975,69,4/17/2025,4/19/2025
+PSU,AMD,Tagaytay,Student,Cash,Cancelled,Alis Fessby,8137,940,37,1/17/2026,1/22/2026
+GPU,MSI,Tagaytay,Professional,Gcash,Processing,Lesley McConnell,8694,340,39,4/5/2026,4/6/2026
+PSU,Samsung,Cebu,Gamer,Credit Card,Delivered,Dimitry Ca,5196,825,71,11/15/2025,11/18/2025
+Cooling,EVGA,Tagaytay,Gamer,Manager's check.,Shipped,Erica Kmieciak,1640,390,78,4/30/2025,5/1/2025
+RAM,Asus,Davao,Student,Manager's check.,Delivered,Sherrie Bane,9142,679,27,2/12/2026,2/16/2026
+CPU,Gigabyte,Davao,Student,Manager's check.,Processing,Jeramey Gallehawk,3092,515,8,8/11/2025,8/14/2025
+GPU,Asus,Davao,Professional,Manager's check.,Delivered,Amandi Nare,9024,134,6,6/15/2025,6/20/2025
+PSU,MSI,Cebu,Student,Cash,Delivered,Mellisent Slyme,2193,901,94,4/2/2026,4/6/2026
+CPU,AMD,Cebu,Gamer,Credit Card,Processing,Porty Fields,8991,284,31,8/12/2025,8/19/2025
+RAM,Gigabyte,Manila,Gamer,Gcash,Shipped,Leandra Iacopo,8133,310,41,5/2/2026,5/7/2026
+GPU,MSI,Davao,Student,Cash,Cancelled,Danika Foottit,910,251,72,1/6/2025,1/8/2025
+Motherboard,MSI,Manila,Enterprise,Manager's check.,Shipped,Hanny Honnan,5679,685,26,2/2/2026,2/6/2026
+Cooling,Gigabyte,Tagaytay,Professional,Credit Card,Delivered,Ivy Lingley,3308,454,25,3/3/2025,3/4/2025
+Motherboard,MSI,Tagaytay,Student,Gcash,Processing,Cristen Whates,5886,323,81,10/21/2025,10/24/2025
+GPU,Samsung,Davao,Student,Gcash,Shipped,Jereme Prebble,1672,118,56,9/17/2025,9/18/2025
+CPU,Gigabyte,Tagaytay,Enterprise,Gcash,Processing,Wendell Simone,1659,900,45,6/29/2025,7/5/2025
+Cooling,Gigabyte,Tagaytay,Student,Gcash,Shipped,Juanita McCrann,5706,635,93,11/11/2025,11/13/2025
+GPU,Samsung,Manila,Gamer,Cash,Processing,Herold Icom,3241,332,52,8/11/2025,8/14/2025
+PSU,Intel,Tagaytay,Student,Credit Card,Processing,Eddy Demcik,6090,42,95,3/17/2025,3/23/2025
+Storage,Corsair,Davao,Student,Credit Card,Shipped,Rochester Wealthall,6154,419,34,11/26/2025,11/28/2025
+CPU,AMD,Cebu,Enterprise,Manager's check.,Delivered,Martie Doulden,3075,611,57,10/7/2025,10/9/2025
+RAM,Gigabyte,Baguio,Enterprise,Credit Card,Processing,Wayland Corter,9598,238,53,3/17/2025,3/21/2025
+Motherboard,Corsair,Manila,Professional,Manager's check.,Delivered,Carena Raffels,117,787,42,10/24/2025,10/31/2025
+Storage,Intel,Baguio,Professional,Manager's check.,Cancelled,Anny Downes,829,436,44,2/2/2026,2/9/2026
+PSU,AMD,Tagaytay,Gamer,Manager's check.,Delivered,Adelheid Piddock,6681,871,80,4/4/2026,4/11/2026
+Storage,Gigabyte,Baguio,Student,Credit Card,Shipped,Heidie O'Noulane,566,102,90,4/25/2026,4/27/2026
+CPU,AMD,Manila,Professional,Manager's check.,Cancelled,Ricca Challace,9831,316,93,2/25/2026,3/4/2026
+Storage,Corsair,Tagaytay,Student,Cash,Delivered,Fan Rihosek,4888,431,39,3/31/2025,4/1/2025
+Motherboard,Samsung,Baguio,Enterprise,Credit Card,Cancelled,Jillene Siebert,9693,484,55,12/17/2025,12/24/2025
+RAM,Samsung,Cebu,Student,Gcash,Shipped,Burke Gouldthorp,3843,376,2,6/28/2025,6/29/2025
+GPU,Gigabyte,Baguio,Professional,Gcash,Delivered,Vikky Weepers,1427,146,53,4/12/2026,4/16/2026
+Motherboard,Asus,Davao,Gamer,Cash,Cancelled,Sandye Pettifor,5201,191,6,7/13/2025,7/20/2025
+CPU,Samsung,Manila,Gamer,Cash,Cancelled,Meryl Dodworth,8128,878,64,2/15/2026,2/17/2026
+GPU,Asus,Tagaytay,Gamer,Manager's check.,Processing,Helene Ettles,9255,36,59,8/17/2025,8/24/2025
+Motherboard,Corsair,Davao,Gamer,Credit Card,Delivered,Carroll Moncey,7486,905,3,1/29/2026,1/30/2026
+Motherboard,Samsung,Baguio,Student,Gcash,Delivered,Sky Sandwick,8384,163,40,1/18/2026,1/25/2026
+RAM,EVGA,Tagaytay,Gamer,Cash,Processing,Lonna Phillipson,8366,377,78,5/27/2025,6/1/2025
+Storage,AMD,Baguio,Student,Gcash,Shipped,Ferdie Froude,639,473,41,2/9/2025,2/13/2025
+Cooling,Intel,Davao,Gamer,Gcash,Cancelled,Westbrooke Epsley,9942,240,49,10/16/2025,10/23/2025
+Motherboard,Corsair,Baguio,Gamer,Manager's check.,Processing,Erika Zavattero,1934,706,30,1/8/2025,1/15/2025
+PSU,Samsung,Baguio,Gamer,Cash,Cancelled,Romeo Hubach,6702,789,19,10/2/2025,10/6/2025
+PSU,AMD,Cebu,Enterprise,Cash,Cancelled,Maddy Strangeway,262,754,90,4/9/2026,4/15/2026
+GPU,AMD,Tagaytay,Gamer,Gcash,Shipped,Goldina Pieterick,4782,668,9,8/12/2025,8/16/2025
+RAM,Intel,Manila,Enterprise,Manager's check.,Delivered,Sonny Potts,1291,401,28,1/29/2025,2/3/2025
+RAM,Samsung,Manila,Professional,Credit Card,Shipped,Hazel Malloy,8855,312,7,1/8/2026,1/9/2026
+Storage,EVGA,Tagaytay,Professional,Credit Card,Cancelled,Eudora Reaney,9793,829,3,5/1/2026,5/8/2026
+Cooling,EVGA,Manila,Gamer,Manager's check.,Cancelled,Zebulen Skilton,5592,859,93,5/12/2025,5/15/2025
+CPU,AMD,Davao,Student,Credit Card,Delivered,Christopher Stroder,7078,808,16,3/19/2026,3/24/2026
+RAM,Corsair,Davao,Student,Manager's check.,Delivered,Mickey Masserel,1076,529,53,10/10/2025,10/13/2025
+Motherboard,Gigabyte,Baguio,Enterprise,Credit Card,Delivered,Eyde Fulford,6273,226,18,4/26/2025,5/1/2025
+Storage,Samsung,Davao,Enterprise,Gcash,Delivered,Jayson Howson,8493,485,2,10/31/2025,11/6/2025
+Storage,Intel,Davao,Student,Credit Card,Shipped,Pinchas Huby,5672,735,15,1/18/2025,1/23/2025
+Storage,EVGA,Manila,Gamer,Manager's check.,Processing,Kelci Buncombe,6992,519,94,2/8/2026,2/13/2026
+RAM,AMD,Manila,Gamer,Gcash,Processing,Collie Juorio,7668,109,72,4/8/2026,4/9/2026
+Storage,EVGA,Tagaytay,Student,Gcash,Delivered,Paolo Joret,2692,648,54,7/14/2025,7/15/2025
+GPU,MSI,Davao,Gamer,Credit Card,Cancelled,Hamlin Toseland,7962,53,95,4/14/2025,4/17/2025
+Storage,AMD,Manila,Gamer,Credit Card,Shipped,Valaria Shulem,9770,587,62,9/25/2025,9/30/2025
+Cooling,Corsair,Baguio,Gamer,Manager's check.,Delivered,Hilario Tegeller,2639,924,80,10/8/2025,10/15/2025
+RAM,Samsung,Cebu,Professional,Cash,Delivered,Hillie Harrap,5975,224,17,9/27/2025,10/3/2025
+PSU,EVGA,Cebu,Enterprise,Manager's check.,Cancelled,Danyette Wickham,5107,883,89,10/25/2025,10/31/2025
+RAM,AMD,Baguio,Enterprise,Gcash,Delivered,Valaree Askam,2203,9,5,5/8/2025,5/13/2025
+Motherboard,Samsung,Davao,Professional,Cash,Shipped,Gordy Quade,2848,372,5,8/21/2025,8/25/2025
+GPU,Intel,Baguio,Enterprise,Manager's check.,Shipped,Reena Seabridge,5328,329,19,5/26/2025,5/28/2025
+Motherboard,MSI,Davao,Professional,Cash,Shipped,Miriam Olding,4720,411,28,3/22/2026,3/24/2026
+Storage,Samsung,Davao,Enterprise,Credit Card,Delivered,Carlita Hedaux,8456,269,79,3/26/2025,3/28/2025
+PSU,MSI,Davao,Student,Manager's check.,Shipped,Caron Gresley,6005,670,90,4/5/2025,4/10/2025
+GPU,Asus,Tagaytay,Student,Cash,Processing,Dennet Walbridge,9945,881,7,11/29/2025,12/2/2025
+Storage,Asus,Davao,Enterprise,Cash,Cancelled,Huntley McFater,6747,872,74,8/11/2025,8/13/2025
+GPU,Asus,Davao,Student,Credit Card,Processing,Chan Paule,7884,562,87,2/27/2025,3/1/2025
+Cooling,Corsair,Cebu,Student,Credit Card,Processing,Fabio Krienke,4170,732,55,9/1/2025,9/5/2025
+CPU,AMD,Manila,Student,Gcash,Delivered,Dominic Sewards,7515,896,67,5/19/2025,5/26/2025
+Storage,Corsair,Manila,Student,Cash,Delivered,Fallon Balden,5087,677,1,6/30/2025,7/7/2025
+PSU,AMD,Davao,Student,Cash,Processing,Kassia Hamlin,2997,768,29,4/19/2026,4/21/2026
+GPU,MSI,Cebu,Student,Cash,Processing,Sterne Wakefield,6219,62,86,2/14/2026,2/16/2026
+PSU,EVGA,Baguio,Professional,Credit Card,Delivered,Camella Norkutt,9833,416,13,5/21/2025,5/27/2025
+Storage,AMD,Manila,Professional,Gcash,Delivered,Marlie Gatecliff,9184,569,2,10/21/2025,10/22/2025
+Cooling,Gigabyte,Davao,Student,Manager's check.,Processing,Annalise Abade,1099,233,89,5/22/2025,5/24/2025
+GPU,EVGA,Baguio,Gamer,Gcash,Delivered,Pauly Brandacci,8972,941,68,3/4/2026,3/8/2026
+Motherboard,MSI,Davao,Student,Cash,Cancelled,Lani Ebdon,3491,249,18,12/8/2025,12/10/2025
+RAM,Gigabyte,Manila,Student,Cash,Delivered,Sammy Stuchburie,8625,564,84,11/30/2025,12/7/2025
+CPU,Corsair,Baguio,Enterprise,Gcash,Cancelled,Aluin O'Nions,3258,306,70,6/6/2025,6/12/2025
+Cooling,Gigabyte,Davao,Professional,Cash,Delivered,Maurise Dodding,6476,813,70,8/13/2025,8/19/2025
+GPU,Intel,Cebu,Professional,Credit Card,Delivered,Caril Huthart,7818,654,86,4/23/2026,4/29/2026
+RAM,MSI,Manila,Student,Credit Card,Shipped,Genia Ferre,430,568,80,9/12/2025,9/15/2025
+Storage,Samsung,Davao,Gamer,Gcash,Shipped,Raddie Yeardley,6029,833,18,8/16/2025,8/21/2025
+GPU,Gigabyte,Tagaytay,Professional,Manager's check.,Cancelled,Monique Helwig,3997,787,2,4/28/2026,4/29/2026
+RAM,Gigabyte,Cebu,Enterprise,Manager's check.,Shipped,Valentina Stannion,1150,614,57,11/27/2025,12/2/2025
+Storage,Samsung,Cebu,Professional,Cash,Shipped,Tobey Margach,3260,316,24,12/14/2025,12/18/2025
+Storage,EVGA,Manila,Gamer,Cash,Shipped,Kellia Bowhay,1914,239,0,2/22/2025,2/28/2025
+PSU,Samsung,Cebu,Professional,Gcash,Shipped,Katey Pheazey,8712,149,47,8/2/2025,8/5/2025
+PSU,EVGA,Baguio,Gamer,Credit Card,Shipped,Dee Conradie,5932,699,55,3/31/2026,4/7/2026
+Motherboard,EVGA,Baguio,Enterprise,Manager's check.,Delivered,Obadiah Tarplee,2459,511,71,3/19/2026,3/20/2026
+GPU,Intel,Davao,Enterprise,Cash,Processing,Rog Morriss,2402,965,34,3/1/2026,3/2/2026
+RAM,MSI,Tagaytay,Professional,Cash,Shipped,Lucky Jeffery,7124,784,71,5/11/2025,5/14/2025
+RAM,Intel,Manila,Professional,Credit Card,Cancelled,Ron Chevolleau,1960,747,12,2/18/2026,2/20/2026
+Cooling,MSI,Tagaytay,Professional,Gcash,Delivered,Marilee Canete,9064,802,19,3/8/2026,3/12/2026
+Motherboard,Gigabyte,Tagaytay,Enterprise,Gcash,Cancelled,Alric Cummings,4751,421,38,4/8/2025,4/9/2025
+Motherboard,Corsair,Baguio,Professional,Gcash,Shipped,Esme Jahan,9754,3,53,6/16/2025,6/22/2025
+Motherboard,Samsung,Davao,Student,Credit Card,Shipped,Linc Poate,7176,870,71,7/16/2025,7/19/2025
+Storage,EVGA,Cebu,Gamer,Manager's check.,Processing,Derek Pawden,3132,851,71,1/14/2026,1/17/2026
+CPU,AMD,Cebu,Enterprise,Credit Card,Shipped,Jorie Sturley,3361,211,93,12/28/2025,12/29/2025
+GPU,Samsung,Baguio,Gamer,Manager's check.,Cancelled,Hanni Ashleigh,867,421,86,3/6/2025,3/11/2025
+Motherboard,Gigabyte,Baguio,Gamer,Gcash,Shipped,Noelle Pargetter,9390,828,65,2/7/2025,2/12/2025
+CPU,Gigabyte,Manila,Gamer,Credit Card,Shipped,Hernando Powlesland,1608,951,30,3/27/2025,4/1/2025
+Motherboard,Intel,Tagaytay,Student,Gcash,Shipped,Nona Ketley,5299,466,47,1/30/2025,2/6/2025
+PSU,AMD,Davao,Professional,Gcash,Delivered,Patrica Ruddick,483,500,89,2/6/2025,2/7/2025
+Cooling,AMD,Tagaytay,Professional,Manager's check.,Shipped,Maynard Collabine,8959,147,83,1/15/2026,1/20/2026
+Cooling,EVGA,Tagaytay,Gamer,Credit Card,Shipped,Huey Beeze,1583,660,65,4/23/2025,4/27/2025
+Cooling,EVGA,Davao,Enterprise,Cash,Processing,Auguste Sketh,5441,306,64,6/18/2025,6/25/2025
+Cooling,Asus,Cebu,Enterprise,Manager's check.,Processing,Wren Lumm,9900,461,53,6/26/2025,6/28/2025
+CPU,Corsair,Tagaytay,Enterprise,Manager's check.,Cancelled,Orv Jacks,6601,249,6,7/17/2025,7/22/2025
+GPU,Intel,Tagaytay,Professional,Gcash,Cancelled,Gabie Coyte,1412,85,75,1/4/2025,1/8/2025
+RAM,EVGA,Davao,Enterprise,Cash,Delivered,Kristopher Fettis,1399,706,33,9/2/2025,9/5/2025
+RAM,AMD,Tagaytay,Enterprise,Cash,Delivered,Delbert Tollerton,1788,171,95,2/18/2026,2/23/2026
+Cooling,Corsair,Cebu,Professional,Gcash,Cancelled,Berti Treacher,1070,939,39,4/21/2025,4/27/2025
+Cooling,Samsung,Manila,Student,Gcash,Delivered,Morly Bass,2595,923,64,6/21/2025,6/27/2025
+Storage,Samsung,Baguio,Professional,Manager's check.,Processing,Celisse Ewdale,9421,294,50,8/25/2025,8/27/2025
+CPU,MSI,Cebu,Gamer,Credit Card,Shipped,Estrellita Monkman,1899,387,27,5/28/2025,5/31/2025
+CPU,Corsair,Manila,Student,Credit Card,Processing,Sheffie Rissen,448,383,40,9/12/2025,9/19/2025
+Storage,Gigabyte,Tagaytay,Gamer,Gcash,Processing,Gussi Threadgill,2047,517,86,12/28/2025,1/3/2026
+Storage,Intel,Tagaytay,Gamer,Manager's check.,Delivered,Guenevere Orpyne,4630,935,54,5/13/2025,5/18/2025
+Cooling,Asus,Davao,Professional,Cash,Processing,Jeanna Dunnico,3049,596,56,8/27/2025,8/30/2025
+RAM,EVGA,Cebu,Student,Manager's check.,Delivered,Laurence Nawton,916,689,17,1/29/2026,2/5/2026
+Cooling,Corsair,Tagaytay,Professional,Manager's check.,Processing,Faustine Sandlin,3028,650,60,5/7/2025,5/10/2025
+CPU,Samsung,Davao,Gamer,Credit Card,Shipped,Fawne Bott,201,922,77,9/7/2025,9/12/2025
+GPU,Gigabyte,Cebu,Enterprise,Gcash,Processing,Frank Mapham,5647,878,25,3/21/2025,3/22/2025
+PSU,Intel,Manila,Professional,Gcash,Delivered,Bondie Lennie,5809,395,77,5/11/2025,5/17/2025
+CPU,MSI,Davao,Professional,Credit Card,Cancelled,Adair Whitcomb,4461,743,31,4/11/2025,4/14/2025
+RAM,Corsair,Cebu,Student,Manager's check.,Processing,Marcus Gellett,3956,296,47,9/17/2025,9/23/2025
+CPU,EVGA,Manila,Gamer,Credit Card,Delivered,Alexei Tabrett,2363,781,53,11/7/2025,11/8/2025
+Storage,Corsair,Manila,Professional,Credit Card,Processing,Hamel Peake,8785,336,24,6/12/2025,6/19/2025
+RAM,Samsung,Davao,Gamer,Gcash,Processing,Kylynn Bitten,8628,465,33,3/22/2025,3/25/2025
+GPU,Asus,Davao,Gamer,Gcash,Delivered,Gwenette Hritzko,5585,307,68,7/9/2025,7/15/2025
+Storage,MSI,Davao,Enterprise,Credit Card,Processing,Delia Breadmore,8183,233,35,6/2/2025,6/5/2025
+PSU,Corsair,Manila,Gamer,Gcash,Cancelled,Licha Sunnucks,1059,4,51,3/3/2026,3/5/2026
+CPU,MSI,Tagaytay,Enterprise,Gcash,Shipped,Jesse Ingre,9226,632,8,1/8/2026,1/13/2026
+CPU,AMD,Cebu,Student,Gcash,Processing,Gauthier Ilbert,5450,563,0,7/11/2025,7/16/2025
+CPU,Intel,Manila,Professional,Manager's check.,Processing,Sallyann Wenger,1000,23,5,9/12/2025,9/17/2025
+GPU,Asus,Manila,Student,Cash,Cancelled,Verge Carder,6929,957,40,4/15/2025,4/16/2025
+GPU,Samsung,Tagaytay,Gamer,Cash,Processing,Theodora Hazeman,6440,601,21,3/5/2026,3/8/2026
+CPU,Samsung,Tagaytay,Student,Gcash,Delivered,Karola Niccols,7752,829,37,6/1/2025,6/3/2025
+PSU,Corsair,Baguio,Gamer,Cash,Shipped,Lorrin Esland,4958,732,82,6/11/2025,6/16/2025
+PSU,AMD,Davao,Student,Cash,Cancelled,Brianna Miklem,4276,212,80,12/6/2025,12/7/2025
+Motherboard,AMD,Baguio,Enterprise,Cash,Cancelled,Lauren Yourell,2917,879,39,2/16/2025,2/22/2025
+CPU,MSI,Cebu,Enterprise,Cash,Delivered,Nils McGlone,8105,987,39,5/16/2025,5/19/2025
+PSU,EVGA,Manila,Professional,Cash,Cancelled,Darrel Tremayne,506,944,72,4/28/2026,4/30/2026
+Motherboard,EVGA,Davao,Gamer,Manager's check.,Cancelled,Madeleine Kliche,6942,906,28,5/7/2025,5/10/2025
+Cooling,Asus,Manila,Gamer,Manager's check.,Processing,Irwinn Corballis,2454,91,73,11/23/2025,11/30/2025
+GPU,Gigabyte,Tagaytay,Professional,Cash,Delivered,Karalynn Lindenbluth,1239,416,64,9/28/2025,10/5/2025
+Motherboard,AMD,Tagaytay,Gamer,Cash,Cancelled,Ronnie Agerskow,513,655,10,4/6/2026,4/10/2026
+CPU,Samsung,Cebu,Gamer,Gcash,Shipped,Ardisj Streeten,1274,265,8,7/21/2025,7/23/2025
+GPU,Samsung,Manila,Student,Cash,Shipped,Cchaddie Kaveney,7678,913,44,1/9/2025,1/11/2025
+PSU,EVGA,Manila,Student,Cash,Processing,Aldridge Pursey,6267,931,59,1/22/2026,1/25/2026
+PSU,MSI,Cebu,Professional,Gcash,Processing,Bo Ivanyukov,2392,644,43,10/29/2025,11/2/2025
+Motherboard,AMD,Cebu,Student,Cash,Shipped,Tatiana Frie,6554,804,60,7/3/2025,7/8/2025
+Motherboard,Intel,Davao,Student,Credit Card,Shipped,Emily Pulver,5299,938,40,11/10/2025,11/12/2025
+GPU,Samsung,Davao,Gamer,Credit Card,Cancelled,Evangelina Folkerd,9032,961,43,3/13/2026,3/15/2026
+PSU,EVGA,Baguio,Gamer,Cash,Processing,Gwenni Affron,7624,547,64,2/21/2025,2/28/2025
+Cooling,Gigabyte,Manila,Gamer,Manager's check.,Delivered,Cindy Edgington,8073,473,75,4/6/2026,4/13/2026
+RAM,Corsair,Davao,Gamer,Gcash,Cancelled,Rusty Hallgalley,92,332,92,4/5/2026,4/11/2026
+Motherboard,AMD,Davao,Enterprise,Credit Card,Cancelled,Nicki Roderigo,7468,842,34,12/16/2025,12/23/2025
+Storage,MSI,Tagaytay,Enterprise,Cash,Processing,Zonda Tomasicchio,8416,515,62,2/6/2026,2/12/2026
+PSU,Intel,Tagaytay,Gamer,Manager's check.,Delivered,Ashil Fritchly,2186,451,66,5/27/2025,6/3/2025
+Storage,Gigabyte,Davao,Professional,Gcash,Cancelled,Carma Polly,2277,728,64,4/11/2025,4/18/2025
+RAM,AMD,Cebu,Professional,Cash,Delivered,Rowland Theuff,6639,47,13,4/6/2026,4/9/2026
+GPU,AMD,Tagaytay,Professional,Cash,Shipped,Loy Towler,8676,981,63,3/21/2026,3/23/2026
+CPU,Corsair,Cebu,Gamer,Manager's check.,Cancelled,Bryon Guisler,4704,601,57,5/1/2026,5/8/2026
+RAM,Intel,Cebu,Student,Manager's check.,Processing,Cecil De Blase,6440,460,89,11/8/2025,11/9/2025
+Motherboard,MSI,Davao,Enterprise,Credit Card,Processing,Marena Jeune,8019,827,35,9/23/2025,9/27/2025
+RAM,EVGA,Baguio,Gamer,Gcash,Cancelled,Dyanna Rigts,6503,395,25,3/9/2025,3/14/2025
+GPU,Corsair,Manila,Gamer,Cash,Processing,Mabel Chesnay,9999,147,55,3/13/2026,3/16/2026
+Storage,Corsair,Baguio,Student,Gcash,Cancelled,Coralie de Nore,9270,827,2,7/31/2025,8/5/2025
+GPU,Corsair,Baguio,Gamer,Cash,Delivered,Gordy Gentzsch,4396,77,46,8/14/2025,8/21/2025
+Storage,EVGA,Davao,Enterprise,Cash,Cancelled,Cristobal Moine,4086,621,84,6/17/2025,6/22/2025
+Cooling,Samsung,Tagaytay,Enterprise,Gcash,Shipped,Waylan Latus,3370,710,18,4/1/2025,4/8/2025
+Motherboard,Gigabyte,Baguio,Student,Manager's check.,Cancelled,Beryle Andrault,3907,713,43,2/9/2025,2/11/2025
+Cooling,Intel,Davao,Gamer,Manager's check.,Processing,Hartwell Bordone,8908,173,48,11/26/2025,12/3/2025
+CPU,Corsair,Manila,Professional,Manager's check.,Processing,Elisa Henrion,2789,746,52,10/28/2025,11/3/2025
+CPU,EVGA,Tagaytay,Enterprise,Credit Card,Delivered,Dav Cuff,278,249,77,8/2/2025,8/4/2025
+GPU,Intel,Baguio,Professional,Cash,Delivered,Georgi Ibbison,8912,275,18,5/27/2025,6/3/2025
+RAM,Asus,Cebu,Professional,Manager's check.,Shipped,Goddart Winchurch,3168,862,64,4/6/2026,4/11/2026
+RAM,Intel,Cebu,Enterprise,Manager's check.,Shipped,Jorry Blakden,1354,608,24,11/23/2025,11/30/2025
+Cooling,MSI,Manila,Professional,Gcash,Delivered,Danya Haggar,3552,89,73,9/8/2025,9/10/2025
+Cooling,Samsung,Davao,Enterprise,Cash,Cancelled,Emmaline Foli,2936,710,33,8/20/2025,8/26/2025
+GPU,Samsung,Baguio,Professional,Gcash,Shipped,Kyrstin Tryhorn,8011,253,59,12/31/2025,1/3/2026
+Cooling,Asus,Baguio,Student,Manager's check.,Shipped,Siana Brace,8764,954,10,7/15/2025,7/21/2025
+PSU,AMD,Tagaytay,Professional,Gcash,Cancelled,Harrietta Rozsa,2662,648,54,7/20/2025,7/26/2025
+Storage,Asus,Manila,Gamer,Credit Card,Delivered,Alessandra Royste,7505,976,16,9/25/2025,10/1/2025
+Cooling,EVGA,Cebu,Gamer,Gcash,Delivered,Annelise Boshard,7267,417,90,3/2/2025,3/6/2025
+Storage,MSI,Baguio,Gamer,Gcash,Cancelled,Sayres Gecke,9884,781,92,10/31/2025,11/7/2025
+GPU,AMD,Cebu,Gamer,Gcash,Shipped,Melisande Gumb,5751,329,82,3/20/2026,3/26/2026
+RAM,AMD,Baguio,Enterprise,Credit Card,Cancelled,Sissy Backler,2500,201,7,7/1/2025,7/3/2025
+Motherboard,Asus,Manila,Enterprise,Manager's check.,Cancelled,Jennie Abrams,1701,339,6,10/11/2025,10/13/2025
+PSU,Gigabyte,Cebu,Gamer,Manager's check.,Processing,Bordie Brisco,3049,225,8,3/4/2026,3/9/2026
+RAM,Corsair,Davao,Enterprise,Cash,Delivered,Antonietta Slides,9639,294,73,4/29/2025,5/4/2025
+Storage,Intel,Tagaytay,Student,Credit Card,Cancelled,Terri Trollope,5856,807,51,9/19/2025,9/24/2025
+CPU,EVGA,Baguio,Enterprise,Gcash,Processing,Lisle Westphal,7630,868,45,12/28/2025,1/1/2026
+GPU,Intel,Tagaytay,Gamer,Manager's check.,Shipped,Arni Button,7455,793,36,12/31/2025,1/2/2026
+RAM,MSI,Manila,Enterprise,Gcash,Shipped,Theresita Matysik,3486,494,21,2/17/2026,2/23/2026
+Cooling,Asus,Tagaytay,Gamer,Credit Card,Cancelled,Denver Gilleson,8980,226,12,4/7/2026,4/9/2026
+CPU,Gigabyte,Manila,Gamer,Gcash,Cancelled,Ferris Castanyer,682,862,15,4/30/2025,5/4/2025
+Cooling,MSI,Cebu,Gamer,Gcash,Processing,Dawna Forsey,2828,128,46,4/13/2025,4/17/2025
+CPU,Corsair,Manila,Enterprise,Cash,Shipped,Gale Causier,9078,253,91,9/4/2025,9/8/2025
+GPU,AMD,Manila,Student,Gcash,Cancelled,Glyn Abernethy,655,583,9,4/13/2026,4/20/2026
+Storage,Gigabyte,Cebu,Gamer,Gcash,Shipped,Virgina Vaskov,4742,761,75,3/31/2025,4/5/2025
+Cooling,Samsung,Tagaytay,Professional,Gcash,Processing,Leonerd Teresa,289,765,21,9/20/2025,9/26/2025
+GPU,MSI,Manila,Enterprise,Cash,Shipped,Bevan Esposi,5807,772,26,12/14/2025,12/16/2025
+Motherboard,EVGA,Cebu,Professional,Gcash,Shipped,Sheffy Kinkaid,4653,80,26,4/24/2025,4/29/2025
+Motherboard,EVGA,Davao,Enterprise,Manager's check.,Delivered,Butch Grevatt,7069,443,8,9/27/2025,10/1/2025
+PSU,Corsair,Baguio,Professional,Cash,Delivered,Mandi Gussin,2447,840,3,4/4/2025,4/7/2025
+Motherboard,Gigabyte,Davao,Professional,Credit Card,Processing,Carly Record,953,146,33,2/28/2026,3/2/2026
+PSU,Intel,Davao,Student,Credit Card,Delivered,Lanna Hobson,7163,180,93,8/11/2025,8/18/2025
+Motherboard,Samsung,Davao,Enterprise,Gcash,Shipped,Freddie Birkmyr,234,932,83,2/21/2026,2/28/2026
+PSU,AMD,Baguio,Professional,Manager's check.,Shipped,Ole Radborn,144,174,84,1/19/2025,1/21/2025
+GPU,Gigabyte,Davao,Gamer,Gcash,Delivered,Sherry Breede,3868,900,65,1/20/2025,1/21/2025
+CPU,Gigabyte,Davao,Enterprise,Cash,Cancelled,Bryana Forst,798,648,64,7/19/2025,7/21/2025
+RAM,Samsung,Cebu,Professional,Manager's check.,Cancelled,Nickey Andraud,8088,761,57,7/27/2025,7/31/2025
+CPU,EVGA,Baguio,Gamer,Manager's check.,Shipped,Leisha Crudgington,87,540,57,7/16/2025,7/18/2025
+CPU,EVGA,Davao,Student,Manager's check.,Processing,Hermon Klamman,2643,191,28,11/24/2025,11/27/2025
+Storage,Intel,Davao,Gamer,Manager's check.,Delivered,Riane Mohun,5880,40,65,3/25/2025,3/28/2025
+Storage,Intel,Cebu,Student,Cash,Shipped,Vyky Lanyon,4773,228,94,8/2/2025,8/5/2025
+Motherboard,EVGA,Baguio,Enterprise,Gcash,Delivered,Bess Di Gregorio,714,680,37,12/5/2025,12/10/2025
+Motherboard,Samsung,Manila,Enterprise,Credit Card,Shipped,Jemmie Hazart,2714,94,27,12/4/2025,12/10/2025
+PSU,AMD,Baguio,Gamer,Gcash,Delivered,Lazar Bembridge,8732,654,45,5/10/2025,5/11/2025
+PSU,Gigabyte,Davao,Professional,Manager's check.,Delivered,Hillary Bastian,1922,164,5,2/1/2025,2/3/2025
+Cooling,Gigabyte,Tagaytay,Student,Cash,Delivered,Paige Follacaro,1365,892,74,3/23/2025,3/25/2025
+CPU,Gigabyte,Cebu,Student,Credit Card,Delivered,Penelopa Pennigar,3275,818,37,8/13/2025,8/18/2025
+PSU,Corsair,Cebu,Gamer,Credit Card,Delivered,Melesa Dulson,3266,578,72,3/18/2025,3/19/2025
+Cooling,Intel,Davao,Professional,Credit Card,Delivered,Gibbie Shalcros,754,1000,4,12/5/2025,12/10/2025
+Motherboard,AMD,Davao,Gamer,Credit Card,Shipped,Jeri Goodwin,4633,854,41,7/17/2025,7/23/2025
+CPU,AMD,Davao,Enterprise,Gcash,Shipped,Jemmy Szwandt,4665,36,11,3/4/2026,3/7/2026
+Motherboard,MSI,Tagaytay,Professional,Manager's check.,Processing,Fifi Ridger,9485,714,49,1/25/2026,1/27/2026
+Cooling,MSI,Cebu,Gamer,Credit Card,Cancelled,Woodie Buffery,8731,892,78,10/5/2025,10/9/2025
+Motherboard,Corsair,Tagaytay,Student,Cash,Cancelled,Ogden Griffithe,9273,792,10,12/22/2025,12/27/2025
+CPU,Gigabyte,Tagaytay,Gamer,Gcash,Delivered,Rhonda Reen,6886,908,16,9/13/2025,9/16/2025
+CPU,Corsair,Davao,Enterprise,Gcash,Cancelled,Evie Aldus,9241,681,22,12/24/2025,12/25/2025
+GPU,Asus,Tagaytay,Student,Credit Card,Processing,Angie Glowach,2004,213,24,10/7/2025,10/14/2025
+Cooling,Intel,Cebu,Student,Gcash,Shipped,Jobey Woodyatt,6089,647,16,9/28/2025,10/5/2025
+Motherboard,Corsair,Baguio,Enterprise,Credit Card,Processing,Whitney Pointer,7387,485,47,2/15/2026,2/22/2026
+PSU,Intel,Manila,Gamer,Gcash,Delivered,Kordula Skones,151,899,18,8/13/2025,8/18/2025
+PSU,Corsair,Davao,Professional,Manager's check.,Processing,Ode Squibb,6056,632,2,10/20/2025,10/22/2025
+GPU,Samsung,Davao,Enterprise,Credit Card,Shipped,Katerina Squibbs,4251,154,14,6/2/2025,6/9/2025
+PSU,Asus,Cebu,Student,Manager's check.,Processing,Kirstyn Jurges,2999,681,15,1/26/2025,1/28/2025
+Cooling,AMD,Cebu,Student,Gcash,Delivered,Tyson Biskupek,4674,590,91,4/17/2025,4/18/2025
+RAM,MSI,Manila,Student,Cash,Delivered,Janel Ianitti,5157,210,63,3/4/2026,3/11/2026
+PSU,Intel,Cebu,Professional,Cash,Cancelled,Washington Chazelas,9132,596,76,3/27/2026,3/30/2026
+PSU,Gigabyte,Davao,Student,Credit Card,Cancelled,Tiertza Samsworth,213,254,11,12/18/2025,12/19/2025
+RAM,MSI,Davao,Enterprise,Manager's check.,Delivered,Judith Glayzer,8336,738,21,4/17/2026,4/23/2026
+PSU,Intel,Manila,Professional,Gcash,Processing,Horatia MacParland,7006,190,78,1/4/2026,1/6/2026
+Motherboard,Intel,Baguio,Student,Gcash,Processing,Rosanne Jouaneton,7464,793,43,3/31/2026,4/1/2026
+CPU,Corsair,Baguio,Enterprise,Credit Card,Delivered,Catlin Linger,7191,433,36,6/21/2025,6/24/2025
+PSU,Asus,Manila,Enterprise,Cash,Delivered,Franklin Vosse,6597,524,40,3/21/2025,3/28/2025
+GPU,Asus,Cebu,Gamer,Manager's check.,Processing,Sile Keener,4408,785,70,2/27/2026,3/3/2026
+PSU,MSI,Cebu,Professional,Cash,Delivered,Matthus Barreau,4075,273,17,12/29/2025,1/1/2026
+Storage,AMD,Cebu,Professional,Gcash,Delivered,Jodi Seville,9050,862,4,2/2/2026,2/5/2026
+Storage,Intel,Manila,Student,Gcash,Shipped,Kyle Wimmers,5951,358,13,4/14/2025,4/16/2025
+GPU,Gigabyte,Baguio,Professional,Cash,Processing,Anya Cohr,740,324,1,7/3/2025,7/10/2025
+PSU,Samsung,Manila,Gamer,Cash,Processing,Lazarus Giacomini,3109,192,54,2/28/2025,3/2/2025
+Storage,MSI,Tagaytay,Professional,Manager's check.,Processing,Lyndy Lalley,1043,905,51,11/15/2025,11/17/2025
+RAM,MSI,Cebu,Enterprise,Manager's check.,Cancelled,Kevyn Claiton,1549,606,75,8/17/2025,8/21/2025
+PSU,Corsair,Manila,Student,Credit Card,Delivered,Barr Peepall,2471,519,43,4/21/2026,4/25/2026
+Storage,Intel,Cebu,Professional,Cash,Shipped,Gabbie Attow,8526,353,68,3/8/2025,3/13/2025
+GPU,Samsung,Davao,Student,Credit Card,Cancelled,Aime Scampion,8230,203,70,2/21/2025,2/27/2025
+Cooling,AMD,Tagaytay,Student,Cash,Processing,Marabel Bramont,9882,933,69,10/26/2025,10/27/2025
+CPU,Asus,Tagaytay,Student,Credit Card,Shipped,Gregorius Dzenisenka,8183,473,94,9/21/2025,9/28/2025
+GPU,Asus,Tagaytay,Student,Credit Card,Shipped,Sigismond Morby,8668,57,16,3/12/2025,3/14/2025
+GPU,Gigabyte,Tagaytay,Enterprise,Gcash,Cancelled,Blanch Buttle,1133,440,34,2/28/2025,3/5/2025
+Storage,EVGA,Manila,Professional,Gcash,Shipped,Derward Sinclar,387,883,19,8/23/2025,8/24/2025
+CPU,MSI,Cebu,Student,Cash,Cancelled,Allyn Shimon,4217,912,51,1/11/2026,1/13/2026
+Cooling,Intel,Manila,Enterprise,Gcash,Shipped,Morris Dowzell,7541,672,21,5/8/2025,5/14/2025
+GPU,Gigabyte,Davao,Professional,Manager's check.,Delivered,Karel Tansley,9502,835,14,5/19/2025,5/22/2025
+PSU,Gigabyte,Cebu,Enterprise,Gcash,Shipped,Terra Hartzogs,3398,922,95,10/19/2025,10/21/2025
+PSU,Gigabyte,Manila,Professional,Cash,Cancelled,Nollie Armfirld,5658,205,25,6/3/2025,6/9/2025
+CPU,Samsung,Manila,Professional,Manager's check.,Delivered,Craggie Tanswell,3982,680,21,4/12/2025,4/16/2025
+CPU,Asus,Davao,Student,Manager's check.,Cancelled,Sascha Rump,4737,44,0,7/23/2025,7/24/2025
+CPU,Corsair,Baguio,Student,Manager's check.,Delivered,Fern Hedgeman,6547,526,63,3/6/2025,3/7/2025
+Motherboard,MSI,Manila,Student,Gcash,Cancelled,Sheridan Coviello,8387,936,9,11/26/2025,11/29/2025
+Storage,Asus,Baguio,Enterprise,Credit Card,Cancelled,Sonnie Bisgrove,3285,237,54,9/27/2025,9/28/2025
+GPU,Intel,Baguio,Professional,Gcash,Delivered,Ring Koopman,9307,276,6,6/9/2025,6/16/2025
+PSU,AMD,Cebu,Professional,Credit Card,Delivered,Norean Dulton,989,754,26,12/21/2025,12/22/2025
+Storage,Samsung,Baguio,Student,Manager's check.,Shipped,Niko McCreary,889,618,89,10/4/2025,10/5/2025
+RAM,Corsair,Cebu,Enterprise,Cash,Delivered,Rowland Copelli,3008,570,52,1/30/2026,2/6/2026
+RAM,AMD,Manila,Gamer,Manager's check.,Processing,Ginger Powling,5945,932,81,7/5/2025,7/9/2025
+CPU,Gigabyte,Manila,Professional,Cash,Cancelled,Winny Castiblanco,6000,565,0,2/25/2025,2/27/2025
+Motherboard,Corsair,Cebu,Gamer,Manager's check.,Shipped,Lorilyn Buckett,8295,914,78,3/24/2026,3/30/2026
+RAM,Gigabyte,Baguio,Enterprise,Gcash,Shipped,Merry McCarty,1161,909,86,10/10/2025,10/11/2025
+PSU,Intel,Cebu,Professional,Gcash,Delivered,Vic Fuente,8826,636,59,5/20/2025,5/27/2025
+GPU,Samsung,Cebu,Professional,Manager's check.,Delivered,Bartie Wards,761,526,85,2/4/2025,2/5/2025
+Motherboard,AMD,Baguio,Student,Credit Card,Delivered,Shaw McGruar,8007,235,2,2/13/2025,2/18/2025
+RAM,Gigabyte,Davao,Gamer,Manager's check.,Processing,Niel Farrin,4947,834,0,3/5/2025,3/6/2025
+GPU,Corsair,Tagaytay,Student,Manager's check.,Processing,Walden Frayn,2599,291,94,7/20/2025,7/21/2025
+CPU,AMD,Manila,Professional,Cash,Cancelled,Hamil MacTrustrie,4251,800,32,7/5/2025,7/11/2025
+Motherboard,MSI,Tagaytay,Gamer,Gcash,Delivered,Durward Musk,477,203,89,2/26/2026,3/2/2026
+GPU,AMD,Cebu,Professional,Credit Card,Processing,Arnuad Beedom,5663,445,71,1/12/2025,1/19/2025
+PSU,AMD,Cebu,Enterprise,Gcash,Shipped,Isidoro Micallef,9397,447,11,4/15/2026,4/21/2026
+CPU,AMD,Tagaytay,Enterprise,Cash,Processing,Robin Goering,8616,635,64,8/22/2025,8/25/2025
+GPU,Corsair,Cebu,Enterprise,Manager's check.,Cancelled,Dwain Creggan,3168,469,42,3/19/2025,3/26/2025
+GPU,AMD,Baguio,Student,Gcash,Cancelled,Rutledge Pate,5669,787,31,4/20/2025,4/22/2025
+RAM,Asus,Baguio,Gamer,Credit Card,Delivered,Raimondo Cason,1855,148,94,3/5/2025,3/10/2025
+Cooling,Intel,Baguio,Gamer,Gcash,Cancelled,Nady Adne,8297,119,62,6/10/2025,6/11/2025
+GPU,Gigabyte,Davao,Gamer,Manager's check.,Processing,Marla Simpkins,7791,889,14,7/19/2025,7/22/2025
+GPU,Asus,Manila,Gamer,Credit Card,Shipped,Alecia Grief,7821,83,92,5/2/2026,5/3/2026
+Storage,Gigabyte,Manila,Enterprise,Credit Card,Cancelled,Brice Richings,9907,78,51,1/24/2026,1/27/2026
+RAM,Intel,Davao,Gamer,Manager's check.,Delivered,Lisa Palluschek,321,658,79,3/16/2025,3/22/2025
+GPU,AMD,Davao,Professional,Cash,Processing,Nealson Breach,7905,503,11,10/11/2025,10/13/2025
+RAM,Samsung,Cebu,Professional,Cash,Delivered,Thorsten Akid,1879,363,26,3/22/2026,3/26/2026
+PSU,MSI,Cebu,Gamer,Credit Card,Shipped,Ketty Skaid,7737,622,29,1/19/2026,1/22/2026
+Motherboard,Intel,Tagaytay,Professional,Manager's check.,Cancelled,Roslyn Toland,1341,663,86,2/8/2025,2/12/2025
+GPU,Asus,Davao,Enterprise,Manager's check.,Processing,Larine Birney,5034,330,21,7/15/2025,7/21/2025
+Storage,Gigabyte,Davao,Professional,Manager's check.,Shipped,Carolann Glentz,8346,587,10,2/4/2025,2/7/2025
+RAM,Samsung,Manila,Enterprise,Credit Card,Shipped,Loretta Marzele,5775,537,79,9/29/2025,10/6/2025
+CPU,Asus,Tagaytay,Professional,Cash,Shipped,Padraic Chadburn,1152,358,91,9/21/2025,9/28/2025
+Cooling,Gigabyte,Manila,Gamer,Manager's check.,Delivered,Devora Braiden,9784,693,27,1/2/2026,1/7/2026
+Storage,Samsung,Baguio,Student,Gcash,Processing,Rudiger Gostick,9697,111,3,3/22/2026,3/27/2026
+Cooling,EVGA,Tagaytay,Enterprise,Gcash,Shipped,Nananne Teffrey,9728,258,51,9/2/2025,9/6/2025
+RAM,Samsung,Manila,Enterprise,Cash,Cancelled,Lindsy Roadknight,4450,155,49,9/19/2025,9/25/2025
+GPU,EVGA,Manila,Student,Cash,Shipped,Marie Goldfinch,5773,770,12,4/20/2025,4/24/2025
+Motherboard,Samsung,Tagaytay,Gamer,Credit Card,Cancelled,Hermia McGeouch,8048,725,17,2/7/2026,2/10/2026
+Storage,EVGA,Tagaytay,Student,Cash,Shipped,Mikaela Sandison,1665,197,26,8/15/2025,8/17/2025
+Motherboard,EVGA,Manila,Student,Credit Card,Processing,Angele Kolyagin,952,69,95,9/25/2025,9/27/2025
+Motherboard,Gigabyte,Baguio,Enterprise,Cash,Processing,Winslow Sherwood,9814,592,74,11/12/2025,11/17/2025
+Cooling,Samsung,Cebu,Gamer,Gcash,Processing,Simone Geaney,775,970,81,11/23/2025,11/28/2025
+Cooling,EVGA,Manila,Student,Manager's check.,Cancelled,Lennard Sollowaye,5217,399,68,5/3/2025,5/6/2025
+Cooling,MSI,Cebu,Gamer,Credit Card,Processing,Tessi Drains,6681,880,95,11/9/2025,11/10/2025
+CPU,Gigabyte,Davao,Professional,Gcash,Cancelled,Georgeanna Finlan,5639,953,8,7/28/2025,8/3/2025
+Cooling,Asus,Baguio,Professional,Gcash,Shipped,Egon Pattington,637,109,67,1/9/2025,1/15/2025
+Storage,Asus,Baguio,Professional,Gcash,Processing,Anastasia Colerick,8548,345,24,7/14/2025,7/20/2025
+Motherboard,Samsung,Cebu,Gamer,Cash,Processing,Andre Wathell,522,991,91,10/11/2025,10/18/2025
+RAM,MSI,Baguio,Student,Gcash,Delivered,Andee Vanyukov,3545,419,10,2/5/2026,2/6/2026
+PSU,Corsair,Manila,Gamer,Gcash,Processing,Alexia McKeaney,4768,967,63,3/18/2025,3/19/2025
+Cooling,AMD,Davao,Gamer,Credit Card,Shipped,Wang Wheatman,8784,467,57,2/6/2025,2/10/2025
+RAM,AMD,Manila,Professional,Cash,Processing,Russell Moncarr,8909,944,82,4/22/2026,4/25/2026
+CPU,Samsung,Manila,Student,Gcash,Cancelled,Zebulon Melesk,6207,802,20,2/6/2025,2/7/2025
+Motherboard,Asus,Tagaytay,Enterprise,Manager's check.,Delivered,Delcina Bradburn,9943,480,0,12/16/2025,12/18/2025
+GPU,MSI,Manila,Enterprise,Manager's check.,Processing,Kordula Letty,3987,796,76,5/12/2025,5/13/2025
+CPU,EVGA,Baguio,Professional,Credit Card,Delivered,Jenelle Tommasi,3735,978,86,7/15/2025,7/16/2025
+RAM,MSI,Davao,Gamer,Cash,Shipped,Lukas Mussolini,6890,994,16,11/24/2025,11/28/2025
+Storage,AMD,Baguio,Gamer,Gcash,Delivered,Reg Eidelman,9575,606,9,7/2/2025,7/9/2025
+Motherboard,MSI,Baguio,Gamer,Gcash,Cancelled,Ingaborg Lynd,1200,399,52,2/7/2025,2/8/2025
+GPU,Asus,Manila,Professional,Cash,Delivered,Wyatt Orred,5797,272,31,1/24/2025,1/31/2025
+GPU,MSI,Manila,Gamer,Gcash,Processing,Kristin Brazelton,8208,815,94,3/7/2025,3/11/2025
+Motherboard,Asus,Cebu,Student,Manager's check.,Processing,Corliss Budnk,9120,266,79,3/29/2025,4/1/2025
+RAM,MSI,Manila,Enterprise,Gcash,Cancelled,Feliza Kruger,5739,381,33,3/18/2026,3/22/2026
+Cooling,AMD,Manila,Professional,Gcash,Shipped,Charles O'Kerin,7814,7,82,6/27/2025,6/28/2025
+Motherboard,MSI,Baguio,Student,Cash,Shipped,Viviene Treen,1342,368,75,7/13/2025,7/19/2025
+Storage,EVGA,Manila,Student,Gcash,Delivered,Lea Solly,501,286,37,1/28/2026,2/1/2026
+Storage,Corsair,Baguio,Student,Cash,Shipped,Wright Zeplin,5713,530,30,4/18/2026,4/20/2026
+Cooling,Asus,Baguio,Professional,Credit Card,Processing,Kipp Bremond,3571,670,73,2/19/2025,2/25/2025
+Cooling,Corsair,Davao,Enterprise,Manager's check.,Processing,Muffin Duiged,1245,598,28,6/14/2025,6/16/2025
+GPU,Gigabyte,Manila,Gamer,Manager's check.,Cancelled,Lutero Lyndon,6771,606,94,7/1/2025,7/4/2025
+Storage,EVGA,Manila,Professional,Credit Card,Delivered,Nert Rissen,371,198,12,12/23/2025,12/30/2025
+CPU,Asus,Manila,Professional,Gcash,Shipped,Dur Breagan,5714,744,46,5/15/2025,5/16/2025
+Cooling,Asus,Baguio,Student,Manager's check.,Shipped,Hedvig Walby,8334,491,70,11/16/2025,11/21/2025
+GPU,Gigabyte,Cebu,Student,Cash,Processing,Iris Lukehurst,8210,322,73,7/3/2025,7/5/2025
+Cooling,Corsair,Manila,Gamer,Credit Card,Delivered,Julienne Fairbanks,7953,325,40,2/6/2025,2/10/2025
+GPU,Corsair,Manila,Enterprise,Cash,Processing,Randa Luckin,3178,310,0,3/3/2026,3/6/2026
+Cooling,Intel,Davao,Gamer,Manager's check.,Cancelled,Belvia Morris,1836,767,59,10/22/2025,10/26/2025
+CPU,Corsair,Cebu,Professional,Manager's check.,Cancelled,Dewie Dreng,2654,210,49,9/14/2025,9/19/2025
+Cooling,AMD,Manila,Student,Gcash,Cancelled,Sheffie Antrag,8780,699,55,3/12/2026,3/18/2026
+Motherboard,AMD,Cebu,Enterprise,Cash,Shipped,Bradly Goodlad,4289,967,61,2/27/2025,3/1/2025
+Motherboard,Asus,Baguio,Student,Manager's check.,Processing,Carey Meah,6461,37,23,7/3/2025,7/8/2025
+GPU,Samsung,Tagaytay,Professional,Cash,Shipped,Coletta Beardwood,9794,860,33,2/25/2025,3/2/2025
+PSU,AMD,Baguio,Gamer,Credit Card,Delivered,Barbee Crowter,1058,569,46,5/23/2025,5/30/2025
+CPU,Samsung,Baguio,Enterprise,Credit Card,Shipped,Maye Gumb,9976,249,50,4/8/2025,4/9/2025
+CPU,MSI,Manila,Gamer,Manager's check.,Cancelled,Carlotta Pettingall,1461,91,57,1/9/2025,1/15/2025
+Cooling,Asus,Tagaytay,Enterprise,Gcash,Cancelled,Troy Petrichat,3043,343,78,5/6/2025,5/8/2025
+PSU,AMD,Cebu,Gamer,Gcash,Cancelled,Derby Cromarty,3500,577,68,8/31/2025,9/6/2025
+GPU,Gigabyte,Tagaytay,Enterprise,Gcash,Shipped,Packston Elner,9111,359,12,1/18/2025,1/25/2025
+RAM,Intel,Manila,Enterprise,Cash,Shipped,Margaret Bagwell,1467,992,60,8/5/2025,8/9/2025
+RAM,AMD,Cebu,Gamer,Cash,Shipped,Izzy Gile,4953,442,49,3/20/2026,3/24/2026
+GPU,Corsair,Davao,Enterprise,Manager's check.,Processing,Terrie Hoff,1198,669,13,1/12/2025,1/15/2025
+CPU,Corsair,Cebu,Student,Cash,Cancelled,Shana Piborn,4846,154,43,4/12/2026,4/14/2026
+CPU,Samsung,Davao,Gamer,Gcash,Delivered,Fergus Gapp,2779,706,78,3/5/2026,3/6/2026
+Storage,Samsung,Baguio,Enterprise,Gcash,Shipped,Kissiah Leathart,7317,122,86,6/30/2025,7/1/2025
+RAM,EVGA,Manila,Gamer,Credit Card,Cancelled,Charlie Rizzardini,103,753,2,2/7/2026,2/10/2026
+CPU,EVGA,Davao,Professional,Cash,Cancelled,Derry Grayshan,3422,107,5,7/30/2025,8/6/2025
+PSU,Gigabyte,Manila,Professional,Credit Card,Processing,Kalli Mauditt,3635,424,42,4/1/2025,4/2/2025
+Cooling,Samsung,Cebu,Student,Manager's check.,Delivered,Wilhelm Unthank,9163,126,61,5/3/2026,5/6/2026
+Motherboard,Gigabyte,Cebu,Gamer,Credit Card,Cancelled,Mable Hantusch,5639,424,86,4/24/2025,4/29/2025
+Cooling,EVGA,Davao,Student,Gcash,Delivered,Leicester Farrand,2034,762,14,10/25/2025,10/27/2025
+CPU,Gigabyte,Cebu,Enterprise,Manager's check.,Shipped,Moira Dugan,467,711,78,2/16/2025,2/17/2025
+RAM,Samsung,Tagaytay,Enterprise,Gcash,Shipped,Zorah Marley,6398,124,19,6/28/2025,7/3/2025
+GPU,MSI,Baguio,Gamer,Credit Card,Cancelled,Newton Walentynowicz,5762,521,57,5/3/2026,5/8/2026
+PSU,Samsung,Manila,Student,Credit Card,Shipped,Ange Turley,2605,414,83,4/8/2025,4/11/2025
+RAM,EVGA,Manila,Student,Gcash,Delivered,Clemence Ubsdale,8893,236,31,12/16/2025,12/23/2025
+Motherboard,Samsung,Manila,Gamer,Manager's check.,Delivered,Belle Judkin,1826,73,68,4/12/2026,4/17/2026
+Cooling,Asus,Baguio,Student,Gcash,Processing,Sybyl Ilbert,9564,358,16,1/25/2025,1/27/2025
+Motherboard,Intel,Baguio,Enterprise,Credit Card,Shipped,Elvina Silvermann,1129,447,45,7/2/2025,7/6/2025
+Storage,Samsung,Davao,Enterprise,Credit Card,Shipped,Reuven Sorsbie,6439,281,93,12/10/2025,12/12/2025
+RAM,AMD,Cebu,Gamer,Credit Card,Delivered,Zelda Ruffli,8618,98,51,4/4/2026,4/11/2026
+PSU,EVGA,Baguio,Professional,Manager's check.,Delivered,Nicky Calverd,4889,975,23,8/5/2025,8/6/2025
+RAM,AMD,Baguio,Enterprise,Gcash,Cancelled,Priscella Nussgen,6178,516,73,8/10/2025,8/17/2025
+Motherboard,MSI,Davao,Gamer,Manager's check.,Delivered,Silvana Osselton,8233,792,61,2/24/2025,2/25/2025
+Storage,Corsair,Cebu,Enterprise,Credit Card,Processing,Patrice Werner,7087,182,77,3/24/2026,3/25/2026
+PSU,Corsair,Manila,Professional,Credit Card,Processing,Guthrey Killby,1330,650,23,4/7/2025,4/10/2025
+Storage,Corsair,Baguio,Enterprise,Manager's check.,Shipped,Garner Oliver-Paull,6879,364,42,8/14/2025,8/15/2025
+Cooling,Samsung,Baguio,Gamer,Cash,Processing,Wilfrid Alentyev,7075,604,22,9/24/2025,9/29/2025
+PSU,EVGA,Cebu,Gamer,Gcash,Cancelled,Cozmo Graundisson,6711,438,79,5/17/2025,5/21/2025
+PSU,Intel,Baguio,Student,Gcash,Processing,Jessy Aitken,4774,716,21,3/25/2026,4/1/2026
+GPU,Corsair,Manila,Gamer,Cash,Shipped,Hephzibah Trood,9433,81,26,9/20/2025,9/23/2025
+Cooling,AMD,Tagaytay,Professional,Gcash,Shipped,Ruy Parminter,9714,123,71,5/5/2025,5/6/2025
+Storage,EVGA,Cebu,Gamer,Gcash,Delivered,Haleigh Albion,259,227,95,1/24/2025,1/25/2025
+GPU,AMD,Davao,Student,Manager's check.,Delivered,Ingaberg Harmant,4386,155,44,10/5/2025,10/10/2025
+RAM,Gigabyte,Tagaytay,Student,Manager's check.,Shipped,Bernice Angelo,7535,827,49,4/11/2026,4/15/2026
+Motherboard,AMD,Davao,Gamer,Credit Card,Delivered,Lind Goodisson,9003,448,13,4/7/2026,4/11/2026
+Storage,AMD,Cebu,Gamer,Credit Card,Delivered,Violetta Mc Harg,6278,936,34,3/22/2025,3/25/2025
+RAM,Gigabyte,Manila,Enterprise,Manager's check.,Delivered,Quentin Pithie,7329,199,53,8/2/2025,8/4/2025
+GPU,Gigabyte,Cebu,Enterprise,Gcash,Cancelled,Leif Stuehmeier,2390,768,35,7/21/2025,7/24/2025
+Storage,Gigabyte,Manila,Enterprise,Manager's check.,Shipped,Gilberte Krook,5280,658,66,1/15/2026,1/21/2026
+RAM,Asus,Cebu,Enterprise,Cash,Delivered,Marcus Faichney,8819,346,27,7/30/2025,8/4/2025
+GPU,Asus,Manila,Gamer,Gcash,Cancelled,Hanna Pietranek,9894,353,87,1/26/2025,2/2/2025
+Cooling,MSI,Cebu,Student,Credit Card,Processing,Hew Courteney,5640,720,24,3/31/2025,4/2/2025
+Motherboard,Gigabyte,Cebu,Student,Cash,Shipped,Nan Mantrip,2968,145,40,9/16/2025,9/21/2025
+PSU,MSI,Cebu,Professional,Gcash,Processing,Doretta Walworth,9814,58,4,1/8/2025,1/9/2025
+CPU,Gigabyte,Baguio,Professional,Cash,Shipped,Knox Amphlett,6017,248,82,5/20/2025,5/22/2025
+RAM,Gigabyte,Cebu,Professional,Manager's check.,Delivered,Cassondra Gander,2105,769,67,3/25/2026,3/28/2026
+Storage,Intel,Tagaytay,Professional,Cash,Processing,Giraud Barensky,7973,187,9,10/6/2025,10/12/2025
+Motherboard,Gigabyte,Tagaytay,Gamer,Credit Card,Delivered,Ollie Hamm,9869,392,51,7/22/2025,7/26/2025
+Cooling,Gigabyte,Davao,Gamer,Gcash,Cancelled,Town Mattock,4548,327,42,4/4/2025,4/6/2025
+GPU,Gigabyte,Davao,Gamer,Manager's check.,Cancelled,Moritz Lipson,3612,518,36,3/10/2025,3/16/2025
+Storage,Corsair,Davao,Professional,Credit Card,Shipped,Brenda Creese,257,491,77,9/17/2025,9/21/2025
+Storage,Corsair,Baguio,Enterprise,Credit Card,Shipped,Morna Hischke,1217,47,11,1/19/2025,1/26/2025
+CPU,Intel,Manila,Gamer,Manager's check.,Delivered,Obediah Sorrell,2378,272,10,5/22/2025,5/24/2025
+Storage,AMD,Cebu,Enterprise,Credit Card,Delivered,Nicky Woodlands,2711,863,18,2/23/2025,2/24/2025
+CPU,Intel,Tagaytay,Enterprise,Manager's check.,Delivered,Bartie Smiz,6796,324,44,5/4/2026,5/8/2026
+Storage,AMD,Manila,Enterprise,Cash,Delivered,Francine Allanson,1604,315,4,4/17/2026,4/23/2026
+Motherboard,MSI,Baguio,Student,Gcash,Shipped,Shae Baty,6080,79,66,2/3/2026,2/10/2026
+CPU,Asus,Tagaytay,Student,Credit Card,Delivered,Audry Fittis,7745,924,50,4/6/2025,4/8/2025
+CPU,AMD,Davao,Professional,Gcash,Cancelled,Noam Downie,8101,660,41,2/16/2026,2/19/2026
+Motherboard,MSI,Davao,Professional,Credit Card,Processing,Cicily Larrad,3644,950,25,3/24/2026,3/28/2026
+PSU,MSI,Tagaytay,Enterprise,Cash,Shipped,Isiahi Paten,2854,850,61,9/2/2025,9/5/2025
+Cooling,Gigabyte,Davao,Professional,Gcash,Delivered,Sheffie Pilgram,5233,968,12,9/13/2025,9/18/2025
+Cooling,MSI,Baguio,Student,Cash,Cancelled,Lyn Esp,3637,895,42,9/4/2025,9/5/2025
+Storage,Corsair,Davao,Gamer,Gcash,Shipped,Delores Deevey,1170,379,18,1/11/2025,1/17/2025
+Cooling,Asus,Manila,Gamer,Cash,Delivered,Sam Wavish,2604,850,46,4/24/2025,4/28/2025
+CPU,Intel,Cebu,Professional,Credit Card,Delivered,Sawyer Walewski,2187,375,1,1/14/2025,1/16/2025
+GPU,Intel,Davao,Enterprise,Gcash,Processing,Prescott Kloser,9331,808,61,6/28/2025,7/1/2025
+CPU,EVGA,Cebu,Enterprise,Cash,Processing,Danika Cuttle,9198,664,50,9/23/2025,9/24/2025
+Motherboard,Corsair,Tagaytay,Gamer,Credit Card,Delivered,Austen Loukes,1944,43,16,3/10/2025,3/12/2025
+GPU,Intel,Manila,Student,Manager's check.,Processing,Hershel Brotherheed,3842,450,42,12/28/2025,1/1/2026
+RAM,Gigabyte,Baguio,Gamer,Credit Card,Shipped,Stevy Benko,5065,604,82,3/22/2026,3/23/2026
+Motherboard,Asus,Baguio,Professional,Credit Card,Processing,Doro Probets,5515,415,73,4/5/2025,4/8/2025
+RAM,AMD,Baguio,Student,Manager's check.,Delivered,Burke MacCosty,3228,796,77,3/15/2026,3/18/2026
+GPU,Corsair,Manila,Professional,Credit Card,Delivered,Adel A'Barrow,1805,675,61,2/10/2026,2/16/2026
+Motherboard,MSI,Tagaytay,Professional,Cash,Processing,Raoul Steed,3118,736,75,1/16/2025,1/22/2025
+CPU,AMD,Davao,Gamer,Manager's check.,Processing,Matthus Rendle,2216,394,11,9/18/2025,9/25/2025
+CPU,AMD,Davao,Enterprise,Gcash,Delivered,Mellicent Casetti,3364,141,25,8/24/2025,8/27/2025
+Cooling,AMD,Cebu,Student,Cash,Shipped,Polly Heavy,9147,90,63,11/27/2025,11/30/2025
+Cooling,Corsair,Baguio,Gamer,Credit Card,Cancelled,Sonni Mousdall,7005,401,26,6/12/2025,6/13/2025
+GPU,AMD,Tagaytay,Professional,Gcash,Delivered,Christabella Isacke,5810,798,28,7/21/2025,7/28/2025
+Motherboard,MSI,Davao,Gamer,Gcash,Shipped,Nefen Potten,5505,703,45,5/2/2025,5/5/2025
+Storage,MSI,Baguio,Enterprise,Gcash,Cancelled,Olag Tasch,912,68,46,2/25/2025,3/2/2025
+RAM,Gigabyte,Baguio,Professional,Gcash,Delivered,Worthy Halpin,9730,556,13,8/22/2025,8/24/2025
+Cooling,MSI,Cebu,Student,Gcash,Shipped,Tuesday Obin,3164,565,85,1/11/2026,1/12/2026
+Motherboard,Samsung,Cebu,Gamer,Gcash,Processing,Chrissy Shoppee,9551,542,94,4/11/2026,4/16/2026
+GPU,Intel,Cebu,Gamer,Credit Card,Cancelled,Elysha Neave,1652,590,57,2/11/2026,2/17/2026
+GPU,Samsung,Manila,Enterprise,Cash,Delivered,Archaimbaud Klebes,9259,963,11,4/5/2025,4/9/2025
+Cooling,Gigabyte,Davao,Professional,Gcash,Cancelled,Enid Penhalewick,4060,969,86,10/26/2025,10/30/2025
+RAM,AMD,Cebu,Gamer,Cash,Processing,Nealson Dalgliesh,7081,807,13,2/7/2025,2/12/2025
+Motherboard,MSI,Manila,Professional,Credit Card,Cancelled,Hayley Smaile,2574,583,82,4/23/2026,4/28/2026
+RAM,Samsung,Baguio,Student,Cash,Cancelled,Paige Di Pietro,6105,306,91,6/18/2025,6/25/2025
+CPU,AMD,Tagaytay,Student,Gcash,Delivered,Nero Lothean,9959,896,81,2/13/2026,2/20/2026
+Storage,Samsung,Cebu,Enterprise,Manager's check.,Processing,Karol Daunay,2053,850,51,12/9/2025,12/15/2025
+CPU,MSI,Cebu,Professional,Cash,Processing,Fax Lemonby,209,41,0,5/29/2025,6/1/2025
+Storage,Intel,Cebu,Enterprise,Gcash,Delivered,Eveline Izakoff,1980,306,10,3/25/2026,3/31/2026
+GPU,MSI,Manila,Enterprise,Manager's check.,Cancelled,Agna Munt,4527,87,66,10/5/2025,10/9/2025
+GPU,Intel,Tagaytay,Gamer,Credit Card,Shipped,Jerri Chatin,9715,735,18,1/16/2026,1/21/2026
+GPU,Samsung,Baguio,Student,Gcash,Delivered,Dasie Syncke,3105,538,63,12/31/2025,1/3/2026
+GPU,Asus,Baguio,Student,Manager's check.,Cancelled,Mile Aronson,6743,270,23,11/16/2025,11/19/2025
+Cooling,EVGA,Baguio,Professional,Credit Card,Shipped,Robyn Tomasz,7545,321,55,4/5/2026,4/8/2026
+Cooling,Gigabyte,Tagaytay,Enterprise,Cash,Shipped,Chic Castleman,5416,1,91,8/18/2025,8/22/2025
+GPU,MSI,Davao,Gamer,Gcash,Delivered,Latisha Pentycross,4580,295,69,5/14/2025,5/19/2025
+Storage,Gigabyte,Baguio,Enterprise,Credit Card,Delivered,Bartie Gascoyen,5428,681,78,3/15/2026,3/22/2026
+RAM,Samsung,Tagaytay,Gamer,Credit Card,Processing,Dolph Beardsell,8671,298,78,6/12/2025,6/13/2025
+PSU,Intel,Davao,Professional,Cash,Cancelled,Dominga Naldrett,1240,687,21,5/14/2025,5/18/2025
+GPU,Intel,Baguio,Student,Manager's check.,Shipped,Dar Bernhardi,7889,31,50,12/19/2025,12/24/2025
+Storage,Asus,Baguio,Professional,Cash,Delivered,Erich Standeven,4421,435,15,8/3/2025,8/4/2025
+Cooling,Gigabyte,Davao,Gamer,Manager's check.,Processing,Latashia Bavister,8059,812,65,3/8/2025,3/13/2025
+GPU,Gigabyte,Tagaytay,Enterprise,Manager's check.,Processing,Jasmine Emanuelli,4685,357,37,2/25/2025,3/2/2025
+Storage,Asus,Tagaytay,Gamer,Credit Card,Delivered,Dall Oneal,121,848,20,11/5/2025,11/11/2025
+PSU,Corsair,Manila,Gamer,Gcash,Cancelled,Jaye Askie,7808,239,69,8/2/2025,8/6/2025
+Storage,Corsair,Baguio,Gamer,Gcash,Delivered,Gerhard Eggleson,9172,861,67,12/13/2025,12/20/2025
+PSU,EVGA,Manila,Enterprise,Credit Card,Delivered,Ches Tinghill,7507,975,84,11/23/2025,11/24/2025
+CPU,MSI,Manila,Professional,Credit Card,Cancelled,Gunar Henstridge,1432,72,54,4/28/2025,5/1/2025
+Cooling,Gigabyte,Tagaytay,Professional,Manager's check.,Processing,Cory Canto,5925,386,19,1/25/2025,1/29/2025
+Cooling,Asus,Davao,Gamer,Credit Card,Shipped,Clair Filippello,526,866,23,1/17/2025,1/19/2025
+RAM,Corsair,Tagaytay,Student,Gcash,Shipped,Cullie Haydney,8685,706,37,12/22/2025,12/29/2025
+GPU,Asus,Tagaytay,Enterprise,Cash,Processing,Tabbie McGeouch,4622,599,73,3/22/2025,3/26/2025
+GPU,EVGA,Tagaytay,Gamer,Manager's check.,Processing,Cordell Whaley,2908,333,78,5/8/2025,5/12/2025
+RAM,AMD,Tagaytay,Professional,Credit Card,Shipped,Linus Meiningen,7899,842,17,12/7/2025,12/12/2025
+GPU,MSI,Baguio,Student,Credit Card,Processing,Elane Cowhig,9196,880,9,1/6/2025,1/10/2025
+Cooling,AMD,Tagaytay,Gamer,Cash,Cancelled,Sigismundo Petrescu,1116,4,61,12/4/2025,12/8/2025
+Motherboard,EVGA,Cebu,Student,Credit Card,Processing,Jena Venners,7305,397,16,12/11/2025,12/18/2025
+Cooling,Intel,Tagaytay,Enterprise,Manager's check.,Cancelled,Karalee Goozee,4107,609,15,1/7/2026,1/14/2026
+PSU,AMD,Davao,Gamer,Gcash,Shipped,Merola Price,2539,126,17,12/8/2025,12/9/2025
+Motherboard,AMD,Cebu,Professional,Cash,Shipped,Minnnie Branthwaite,2536,890,87,5/2/2026,5/8/2026
+Storage,Intel,Baguio,Student,Credit Card,Processing,Dreddy Steptowe,2882,295,50,8/4/2025,8/6/2025
+PSU,Gigabyte,Davao,Student,Manager's check.,Cancelled,Sharleen Manion,5419,799,95,9/27/2025,9/30/2025
+RAM,Samsung,Manila,Enterprise,Manager's check.,Shipped,Marijn Windows,6775,322,65,10/22/2025,10/25/2025
+GPU,EVGA,Cebu,Student,Cash,Delivered,Gerry Cumberlidge,913,881,64,2/24/2025,3/1/2025
+Cooling,Samsung,Baguio,Enterprise,Manager's check.,Cancelled,Bert Harbard,5546,284,43,5/10/2025,5/12/2025
+Motherboard,Asus,Manila,Student,Gcash,Shipped,Florri Vandrill,6266,0,49,3/3/2025,3/7/2025
+Motherboard,Asus,Cebu,Student,Cash,Processing,Reade Kuhndel,6025,200,5,4/15/2025,4/18/2025
+GPU,Asus,Tagaytay,Student,Gcash,Delivered,Eirena Foxton,6216,559,43,5/16/2025,5/19/2025
+Cooling,Samsung,Tagaytay,Enterprise,Manager's check.,Shipped,Zorina Jacobsohn,1839,454,22,10/19/2025,10/21/2025
+CPU,Gigabyte,Baguio,Enterprise,Credit Card,Cancelled,Inez Dorgon,1971,820,39,2/2/2025,2/8/2025
+GPU,AMD,Cebu,Professional,Credit Card,Shipped,Rochester Carmen,1777,147,73,3/1/2026,3/3/2026
+Storage,MSI,Manila,Professional,Credit Card,Shipped,Ashia Erington,8248,836,35,4/9/2025,4/11/2025
+RAM,MSI,Baguio,Enterprise,Cash,Cancelled,Isahella Burwell,5442,655,20,9/17/2025,9/18/2025
+GPU,EVGA,Manila,Gamer,Credit Card,Processing,Helga Redparth,4832,453,75,7/30/2025,8/4/2025
+Storage,Gigabyte,Manila,Gamer,Cash,Delivered,Patty Hobson,3273,425,23,5/3/2026,5/8/2026
+CPU,Gigabyte,Davao,Professional,Manager's check.,Processing,Georgina Wetherhead,205,153,43,4/21/2025,4/27/2025
+Storage,AMD,Baguio,Professional,Gcash,Cancelled,Ines Ezzy,9231,852,27,4/1/2026,4/7/2026
+Cooling,Gigabyte,Davao,Student,Cash,Delivered,Ruthie Mattack,3773,726,10,8/26/2025,8/30/2025
+Motherboard,Corsair,Baguio,Student,Manager's check.,Delivered,Andras Whetland,878,509,29,1/1/2026,1/3/2026
+GPU,AMD,Davao,Enterprise,Gcash,Shipped,Brenden Warsop,6996,10,85,4/3/2026,4/8/2026
+GPU,Samsung,Tagaytay,Student,Gcash,Processing,Malcolm Huebner,2394,844,91,12/6/2025,12/11/2025
+RAM,Samsung,Cebu,Gamer,Credit Card,Cancelled,Ginny Hodge,5877,801,38,4/3/2026,4/4/2026
+CPU,Intel,Tagaytay,Enterprise,Manager's check.,Delivered,Angie Hogben,4130,264,13,4/27/2026,5/1/2026
+Cooling,AMD,Tagaytay,Student,Credit Card,Processing,Honey Loghan,341,549,57,10/17/2025,10/22/2025
+CPU,AMD,Davao,Enterprise,Gcash,Cancelled,Warde Lotte,541,716,42,5/3/2026,5/4/2026
+PSU,MSI,Cebu,Professional,Manager's check.,Delivered,Datha Blackborow,2171,964,1,5/14/2025,5/21/2025
+Motherboard,MSI,Tagaytay,Student,Gcash,Shipped,Hoyt Geany,4411,311,25,12/17/2025,12/21/2025
+GPU,Corsair,Manila,Enterprise,Gcash,Processing,Moyra Goodson,985,554,48,4/2/2025,4/6/2025
+RAM,Corsair,Cebu,Professional,Credit Card,Delivered,Harald Balshen,9465,30,25,4/23/2026,4/28/2026
+GPU,Gigabyte,Tagaytay,Gamer,Manager's check.,Processing,Joell Vynarde,4931,669,54,4/12/2026,4/18/2026
+Cooling,Intel,Baguio,Professional,Credit Card,Delivered,Trueman Kearle,8096,242,21,6/15/2025,6/20/2025
+RAM,Asus,Manila,Enterprise,Cash,Processing,Teddy Sommerton,3575,311,14,7/7/2025,7/11/2025
+Motherboard,Asus,Tagaytay,Enterprise,Gcash,Processing,Berk Peckitt,5148,871,45,2/3/2025,2/7/2025
+Cooling,MSI,Cebu,Professional,Manager's check.,Shipped,Teresita Print,7298,408,30,6/11/2025,6/17/2025
+RAM,MSI,Manila,Gamer,Credit Card,Delivered,Mayer Nutter,729,638,32,10/18/2025,10/21/2025
+Cooling,MSI,Baguio,Enterprise,Cash,Processing,Jim Tuftin,1967,309,45,8/31/2025,9/3/2025
+RAM,Gigabyte,Cebu,Gamer,Manager's check.,Delivered,Lillis Papez,167,973,49,6/1/2025,6/3/2025
+Cooling,AMD,Tagaytay,Enterprise,Credit Card,Processing,Judith Gold,3952,99,71,1/5/2025,1/7/2025
+Storage,Corsair,Cebu,Student,Gcash,Shipped,Antonino Tremoille,253,933,30,4/16/2026,4/23/2026
+PSU,EVGA,Cebu,Gamer,Manager's check.,Delivered,Mollee Buie,8622,192,19,2/14/2025,2/21/2025
+CPU,Samsung,Tagaytay,Enterprise,Manager's check.,Processing,Gizela MacVagh,1434,229,85,6/10/2025,6/16/2025
+Cooling,Asus,Tagaytay,Student,Cash,Shipped,Tamas Pettengell,2125,313,93,2/15/2026,2/17/2026
+CPU,Intel,Tagaytay,Student,Manager's check.,Shipped,Petronella Grzegorczyk,1933,68,84,3/6/2025,3/11/2025
+Storage,Intel,Manila,Student,Credit Card,Delivered,Tammy Yakunikov,6226,151,70,4/1/2025,4/7/2025
+CPU,Samsung,Cebu,Gamer,Credit Card,Delivered,Pedro Lewsey,9644,297,7,2/6/2025,2/12/2025
+Storage,EVGA,Davao,Gamer,Credit Card,Cancelled,Zarah Moncreiff,8790,372,4,8/8/2025,8/13/2025
+PSU,MSI,Cebu,Student,Credit Card,Cancelled,Essy Frampton,5770,669,36,9/14/2025,9/19/2025
+GPU,EVGA,Manila,Enterprise,Gcash,Shipped,Fran Largent,1679,481,32,2/11/2026,2/12/2026
+CPU,EVGA,Davao,Student,Credit Card,Shipped,Danila Gonsalo,6824,197,88,6/8/2025,6/9/2025
+CPU,Intel,Cebu,Gamer,Gcash,Processing,Rozella Celler,9632,224,75,3/28/2025,4/4/2025
+Motherboard,Corsair,Tagaytay,Gamer,Credit Card,Cancelled,Cointon Ferrettino,727,498,26,2/20/2026,2/27/2026
+PSU,Samsung,Baguio,Student,Cash,Delivered,Delphine Gover,1685,27,35,5/13/2025,5/15/2025
+CPU,Intel,Baguio,Professional,Cash,Cancelled,Vitoria Dearell,318,35,42,5/20/2025,5/23/2025
+PSU,AMD,Manila,Gamer,Cash,Cancelled,Geralda Bolus,3354,572,3,7/6/2025,7/12/2025
+CPU,MSI,Davao,Professional,Credit Card,Processing,Ava Mulvagh,7965,867,67,1/30/2026,2/5/2026
+Motherboard,AMD,Cebu,Student,Credit Card,Cancelled,Corry Foxcroft,2960,206,34,10/15/2025,10/22/2025
+Motherboard,Corsair,Tagaytay,Professional,Gcash,Shipped,Hendrika Pennycock,3678,298,0,1/19/2026,1/20/2026
+Storage,EVGA,Cebu,Gamer,Credit Card,Shipped,Humberto Ludford,5113,227,47,7/19/2025,7/25/2025
+Cooling,Asus,Tagaytay,Enterprise,Cash,Shipped,Lorilyn Volet,1861,975,85,4/23/2025,4/30/2025
+CPU,Corsair,Manila,Enterprise,Cash,Processing,Mira Wodeland,2700,806,80,7/23/2025,7/30/2025
+CPU,Asus,Tagaytay,Gamer,Cash,Delivered,Esma Belverstone,5494,567,14,6/15/2025,6/18/2025
+Motherboard,Intel,Davao,Student,Credit Card,Shipped,Barbaraanne Gillett,4164,164,56,4/4/2025,4/8/2025
+Motherboard,Samsung,Baguio,Professional,Manager's check.,Delivered,Adan Blumson,5288,154,67,1/20/2025,1/25/2025
+RAM,Intel,Tagaytay,Gamer,Credit Card,Delivered,Denna Casone,2559,544,39,1/15/2026,1/16/2026
+GPU,Intel,Manila,Student,Manager's check.,Shipped,Prisca Fenty,4976,152,11,1/26/2025,1/31/2025
+RAM,MSI,Cebu,Student,Cash,Cancelled,Jessica Whitehorne,4625,874,44,7/9/2025,7/10/2025
+RAM,Intel,Davao,Enterprise,Credit Card,Cancelled,Mathe Loach,444,221,21,2/10/2025,2/14/2025
+CPU,AMD,Manila,Enterprise,Gcash,Processing,Ebony Dussy,7812,192,71,7/9/2025,7/15/2025
+GPU,Gigabyte,Cebu,Professional,Credit Card,Shipped,Chrystel Callf,290,188,56,6/27/2025,6/30/2025
+Motherboard,EVGA,Cebu,Gamer,Cash,Cancelled,Turner Ricciardo,6743,232,58,4/1/2026,4/6/2026
+Cooling,EVGA,Baguio,Professional,Gcash,Cancelled,Ricki Christauffour,9908,998,36,1/22/2025,1/23/2025
+PSU,Corsair,Tagaytay,Professional,Manager's check.,Delivered,Twyla Gerren,2450,704,17,12/14/2025,12/18/2025
+Storage,EVGA,Tagaytay,Enterprise,Gcash,Cancelled,Roi Meese,6793,384,22,4/24/2026,4/30/2026
+PSU,Gigabyte,Davao,Professional,Credit Card,Delivered,Gregory Maughan,209,935,39,12/20/2025,12/21/2025
+GPU,Gigabyte,Davao,Enterprise,Manager's check.,Processing,Demetri Toplis,7072,819,90,5/2/2026,5/9/2026
+Cooling,Samsung,Cebu,Professional,Credit Card,Shipped,Bryce Donnachie,9718,496,9,5/24/2025,5/25/2025
+RAM,AMD,Cebu,Enterprise,Manager's check.,Cancelled,Zacharie Alleyne,1946,851,66,4/6/2025,4/11/2025
+RAM,Gigabyte,Cebu,Professional,Credit Card,Processing,Neddie Goad,3089,541,42,9/5/2025,9/6/2025
+Storage,Samsung,Manila,Enterprise,Gcash,Delivered,Casie Caudell,4030,369,37,7/9/2025,7/16/2025
+RAM,Asus,Davao,Professional,Gcash,Shipped,Leif Haseley,2924,705,66,4/20/2026,4/21/2026
+PSU,Gigabyte,Tagaytay,Professional,Gcash,Shipped,Felita MacGall,3404,182,95,5/2/2025,5/3/2025
+Storage,Corsair,Davao,Professional,Gcash,Cancelled,Frank Sudworth,2847,996,63,1/30/2026,2/4/2026
+Storage,Asus,Davao,Professional,Cash,Delivered,Matty Albon,4426,53,28,1/24/2026,1/29/2026
+Storage,Corsair,Davao,Enterprise,Credit Card,Processing,Shawnee Dizlie,9821,997,69,9/10/2025,9/12/2025
+Storage,Asus,Tagaytay,Enterprise,Manager's check.,Delivered,Carlita Tamburo,8612,200,76,1/26/2026,2/1/2026
+Motherboard,MSI,Baguio,Student,Cash,Cancelled,Maxwell Bodsworth,8243,354,27,1/31/2026,2/7/2026
+GPU,Asus,Manila,Professional,Credit Card,Cancelled,Adham Epsly,9991,703,5,2/22/2026,2/23/2026
+Cooling,MSI,Davao,Enterprise,Cash,Delivered,Carlen Cotterell,7330,282,24,3/9/2025,3/16/2025
+CPU,Corsair,Davao,Professional,Credit Card,Shipped,Horatio Pascoe,7677,686,39,1/22/2025,1/26/2025
+Motherboard,Corsair,Manila,Student,Cash,Cancelled,Daisie Phettiplace,4798,850,57,3/25/2026,3/30/2026
+GPU,MSI,Manila,Student,Gcash,Cancelled,Renata Mateuszczyk,6486,738,90,8/13/2025,8/19/2025
+RAM,AMD,Davao,Gamer,Cash,Shipped,Sibyl De Hoogh,474,367,92,3/30/2025,4/3/2025
+Motherboard,AMD,Tagaytay,Student,Cash,Shipped,Arabela Postle,9998,244,18,11/17/2025,11/18/2025
+GPU,Corsair,Manila,Student,Manager's check.,Delivered,Jacquenetta Zorzenoni,7345,46,33,10/7/2025,10/13/2025
+RAM,AMD,Tagaytay,Gamer,Cash,Shipped,Terrijo Keeley,9594,276,26,1/23/2025,1/24/2025
+PSU,Samsung,Baguio,Student,Manager's check.,Processing,Cornie Ferraraccio,3172,486,36,4/28/2025,5/4/2025
+Cooling,Asus,Tagaytay,Gamer,Manager's check.,Shipped,Abram Zink,2819,501,69,12/13/2025,12/15/2025
+GPU,Corsair,Davao,Enterprise,Credit Card,Delivered,Chrissy Thomlinson,5414,368,13,11/27/2025,12/4/2025
+CPU,EVGA,Tagaytay,Student,Credit Card,Cancelled,Alexis Whitcombe,2711,743,4,2/4/2025,2/9/2025
+PSU,EVGA,Cebu,Professional,Gcash,Processing,Brooke Skerm,5069,602,86,12/31/2025,1/7/2026
+Cooling,Samsung,Davao,Enterprise,Credit Card,Delivered,Bronson Haveline,6337,561,19,11/10/2025,11/16/2025
+PSU,Corsair,Manila,Student,Credit Card,Cancelled,Palmer Launder,2420,167,91,5/4/2026,5/9/2026
+CPU,Intel,Davao,Professional,Cash,Shipped,Cal Dissman,3381,400,94,10/21/2025,10/27/2025
+Motherboard,Asus,Baguio,Gamer,Manager's check.,Cancelled,Krishna Blanshard,9470,30,19,4/5/2026,4/11/2026
+Storage,Intel,Manila,Professional,Cash,Shipped,Belia Paulack,1819,875,50,3/31/2026,4/4/2026
+PSU,Asus,Davao,Enterprise,Credit Card,Cancelled,Nancie McDermott,4483,934,82,3/13/2026,3/19/2026
+Cooling,Asus,Tagaytay,Professional,Credit Card,Delivered,Kalie Himsworth,4423,839,2,1/18/2026,1/25/2026
+RAM,Asus,Baguio,Enterprise,Gcash,Shipped,Danyette Oseland,5415,493,47,1/5/2026,1/11/2026
+Cooling,AMD,Baguio,Gamer,Manager's check.,Cancelled,Erhard McAvinchey,1370,231,83,1/21/2025,1/22/2025
+PSU,EVGA,Davao,Professional,Cash,Shipped,Valentin Loader,7682,781,60,2/28/2025,3/3/2025
+Cooling,AMD,Tagaytay,Student,Cash,Shipped,Emily Masdon,7059,4,30,7/18/2025,7/20/2025
+PSU,AMD,Davao,Student,Credit Card,Delivered,Lorena Wilde,6061,180,21,1/7/2026,1/11/2026
+GPU,Intel,Baguio,Enterprise,Manager's check.,Delivered,Gina Villaret,9349,980,34,1/21/2025,1/27/2025
+CPU,Gigabyte,Baguio,Professional,Manager's check.,Cancelled,Britteny Blondel,2638,593,16,2/11/2025,2/16/2025
+Storage,Gigabyte,Cebu,Gamer,Credit Card,Delivered,Dominique Wernher,6930,187,54,4/8/2025,4/14/2025
+Motherboard,Gigabyte,Baguio,Professional,Manager's check.,Delivered,Brittan Yacobsohn,4242,292,71,4/10/2026,4/11/2026
+Cooling,Asus,Baguio,Professional,Gcash,Cancelled,Constantine Tong,8594,153,17,4/24/2026,4/27/2026
+PSU,AMD,Davao,Enterprise,Gcash,Delivered,Allix Woodrough,8281,131,14,3/11/2025,3/12/2025
+GPU,Intel,Baguio,Professional,Cash,Processing,Nadeen Thoma,7206,733,14,4/9/2026,4/14/2026
+GPU,EVGA,Manila,Gamer,Cash,Delivered,Thebault Nulty,7157,459,29,3/6/2025,3/12/2025
+CPU,EVGA,Baguio,Enterprise,Manager's check.,Delivered,Marlon Vayro,8142,865,45,1/1/2026,1/8/2026
+Cooling,Corsair,Tagaytay,Gamer,Gcash,Delivered,Linell Leither,1550,87,95,2/17/2026,2/21/2026
+RAM,Intel,Manila,Enterprise,Credit Card,Shipped,Jaimie MacComiskey,2698,839,50,5/23/2025,5/27/2025
+Storage,Gigabyte,Cebu,Enterprise,Manager's check.,Shipped,Darcey MacCahee,1454,303,62,6/2/2025,6/4/2025
+Storage,Asus,Tagaytay,Enterprise,Manager's check.,Shipped,Desmond Hold,2477,35,74,3/31/2026,4/3/2026
+RAM,Samsung,Baguio,Gamer,Manager's check.,Shipped,Larissa Trulocke,4796,504,40,3/22/2025,3/26/2025
+GPU,EVGA,Cebu,Gamer,Manager's check.,Shipped,Timmi Esberger,5179,90,56,6/22/2025,6/28/2025
+Cooling,Asus,Davao,Enterprise,Cash,Delivered,Cary Grigorini,3036,110,60,7/9/2025,7/14/2025
+Storage,MSI,Tagaytay,Student,Credit Card,Processing,Dew Bodman,2436,363,12,10/28/2025,11/4/2025
+Motherboard,Samsung,Cebu,Professional,Credit Card,Cancelled,Jody Clem,1744,751,53,3/28/2025,4/2/2025
+GPU,Corsair,Baguio,Enterprise,Cash,Delivered,Duncan Smiz,1244,511,55,8/26/2025,8/30/2025
+CPU,MSI,Tagaytay,Enterprise,Manager's check.,Delivered,Beverlee Fernley,4691,376,38,4/14/2025,4/21/2025
+CPU,MSI,Tagaytay,Professional,Cash,Delivered,Savina Mordacai,3994,654,21,11/19/2025,11/23/2025
+RAM,EVGA,Davao,Student,Gcash,Delivered,Constancy Wibrew,5018,345,42,9/14/2025,9/15/2025
+Storage,Gigabyte,Manila,Enterprise,Gcash,Processing,Reinaldo Mancer,5349,225,72,8/25/2025,8/28/2025
+CPU,Intel,Davao,Gamer,Cash,Processing,Basil Durston,5567,602,3,2/13/2025,2/20/2025
+GPU,EVGA,Tagaytay,Student,Manager's check.,Cancelled,Prissie Plowright,9957,103,8,10/7/2025,10/11/2025
+RAM,Intel,Tagaytay,Enterprise,Manager's check.,Processing,Nona Geraghty,9229,440,72,12/28/2025,1/2/2026
+RAM,Asus,Manila,Gamer,Gcash,Processing,Hartley Beames,1955,808,43,8/5/2025,8/11/2025
+Motherboard,Samsung,Cebu,Enterprise,Gcash,Processing,Obie Sillars,8205,562,44,10/13/2025,10/20/2025
+GPU,AMD,Cebu,Professional,Gcash,Processing,Mollee Scrace,9156,800,55,1/14/2026,1/21/2026
+Storage,EVGA,Tagaytay,Enterprise,Gcash,Delivered,Cassandre Deverille,5242,304,82,2/26/2026,2/28/2026
+Storage,AMD,Davao,Student,Cash,Cancelled,Barrie Meindl,4860,48,11,2/9/2025,2/15/2025
+Motherboard,Corsair,Tagaytay,Gamer,Gcash,Shipped,Vally Turvey,1702,193,6,4/27/2025,5/2/2025
+Storage,Intel,Tagaytay,Professional,Credit Card,Processing,Claudetta Leger,834,145,39,6/18/2025,6/20/2025
+CPU,Gigabyte,Manila,Student,Manager's check.,Shipped,Darb Ivashkov,9181,241,18,8/12/2025,8/19/2025
+PSU,MSI,Cebu,Professional,Gcash,Delivered,Samaria Leyshon,7448,546,11,9/29/2025,10/5/2025
+CPU,Asus,Cebu,Gamer,Credit Card,Shipped,Davon Cymper,7055,426,84,5/19/2025,5/25/2025
+PSU,Intel,Davao,Enterprise,Manager's check.,Shipped,Denys Mattes,2395,160,5,9/20/2025,9/27/2025
+GPU,AMD,Tagaytay,Enterprise,Gcash,Processing,Doralyn Pullinger,3018,178,54,10/21/2025,10/27/2025
+Cooling,Intel,Manila,Enterprise,Gcash,Shipped,Francis Drever,2700,970,15,4/18/2026,4/19/2026
+CPU,Corsair,Baguio,Gamer,Credit Card,Delivered,Leia Frankes,9366,831,93,12/23/2025,12/30/2025
+GPU,Asus,Manila,Professional,Manager's check.,Delivered,Jessee Fallens,3150,313,41,2/11/2026,2/18/2026
+Storage,EVGA,Tagaytay,Professional,Credit Card,Processing,Donny Jersh,8805,447,52,3/2/2026,3/8/2026
+Storage,Asus,Manila,Enterprise,Credit Card,Delivered,Elton Thurston,7997,453,36,1/27/2025,1/29/2025
+RAM,Asus,Manila,Enterprise,Credit Card,Processing,Klement Cragell,8526,447,79,5/17/2025,5/18/2025
+PSU,Corsair,Davao,Enterprise,Cash,Processing,Janetta Kemmett,4299,821,40,10/29/2025,11/5/2025
+Cooling,Corsair,Baguio,Enterprise,Gcash,Processing,Raffaello Linstead,9509,431,1,1/8/2025,1/14/2025
+GPU,Asus,Manila,Gamer,Cash,Shipped,Temple Kingzett,5754,73,53,12/15/2025,12/22/2025
+CPU,Asus,Manila,Enterprise,Manager's check.,Delivered,Stanley Mountford,4706,65,61,1/27/2026,1/31/2026
+Storage,Asus,Manila,Student,Manager's check.,Delivered,Ania Crofthwaite,7050,246,42,7/30/2025,8/5/2025
+PSU,Asus,Manila,Enterprise,Cash,Shipped,Ruddie Hurle,4299,86,93,10/31/2025,11/2/2025
+Storage,MSI,Baguio,Gamer,Credit Card,Processing,Laurena Houlden,6756,620,39,11/3/2025,11/9/2025
+Motherboard,Asus,Baguio,Gamer,Gcash,Cancelled,Marja Buckberry,5460,810,50,7/18/2025,7/22/2025
+GPU,Asus,Manila,Student,Manager's check.,Delivered,John Bubbear,8506,977,76,2/20/2025,2/24/2025
+Motherboard,EVGA,Tagaytay,Student,Credit Card,Delivered,Franny Melrose,7773,497,5,7/25/2025,7/31/2025
+Storage,Asus,Davao,Enterprise,Gcash,Cancelled,Annnora Rolance,9292,578,67,10/17/2025,10/22/2025
+Motherboard,Samsung,Tagaytay,Enterprise,Cash,Shipped,Ignace Utting,3162,798,83,2/16/2026,2/23/2026
+Storage,Corsair,Tagaytay,Enterprise,Credit Card,Delivered,Emilee Van Velden,1376,758,75,5/24/2025,5/27/2025
